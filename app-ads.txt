@@ -80,3 +80,4 @@ loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
 mintegral.com, 10038, RESELLER
 xandr.com, 13297, RESELLER
 appnexus.com, 13297, RESELLER
+google.com, pub-8013417841559160, DIRECT, f08c47fec0942fa0
