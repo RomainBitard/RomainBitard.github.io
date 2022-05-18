@@ -78,3 +78,5 @@ spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
 mintegral.com, 10038, RESELLER
+xandr.com, 13297, RESELLER
+appnexus.com, 13297, RESELLER
