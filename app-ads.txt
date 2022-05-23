@@ -81,3 +81,4 @@ mintegral.com, 10038, RESELLER
 xandr.com, 13297, RESELLER
 appnexus.com, 13297, RESELLER
 google.com, pub-8013417841559160, DIRECT, f08c47fec0942fa0
+applovin.com, 355e3e572832d8f5a36bbf88bd2dbab2, DIRECT
