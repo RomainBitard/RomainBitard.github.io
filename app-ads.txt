@@ -20,7 +20,6 @@ appnexus.com, 10617, RESELLER
 appnexus.com, 9393, RESELLER
 appnexus.com, 13293, RESELLER
 unity.com, 1141857, DIRECT, 96cabb5fbdde37a7
-algorix.co, 54616, RESELLER
 meitu.com, 282, RESELLER
 telaria.com, rwd19-1141857, RESELLER, 1a4e959a1b50034a
 velismedia.com, 725, RESELLER
@@ -87,4 +86,5 @@ meitu.com, 699, RESELLER
 webeyemob.com, 70104, RESELLER
 pubmatic.com, 161136, RESELLER, 5d62403b186f2ace
 xandr.com, 13167, RESELLER
+algorix.co, 54616, RESELLER
 algorix.co, 60016 , RESELLER
