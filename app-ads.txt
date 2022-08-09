@@ -221,3 +221,8 @@ yandex.com, 40427798, RESELLER
 yandex.com, 97539269, RESELLER
 yeahmobi.com, 15984, RESELLER
 yeahmobi.com, 5135195, RESELLER
+advlion.com, 5140, RESELLER
+opera.com, pub6794361378752, RESELLER, 55a0c5fd61378de3
+pubmatic.com, 161344, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161018, RESELLER, 5d62403b186f2ace
+videoheroes.tv, 212499, RESELLER, 064bc410192443d8
