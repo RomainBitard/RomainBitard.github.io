@@ -5,6 +5,7 @@ Pubnative.net, 1007063, RESELLER, d641df8625486a7b
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
 adcolony.com,c7b2bb9f944ae42a,RESELLER,1ad675c9de6b5176
+smartadserver.com, 4194, DIRECT
 adelement.com, 30167, RESELLER
 admanmedia.com, 613, RESELLER
 admixer.net, 4ca083cd-412f-49fe-b832-5b66ee490d9a, RESELLER
