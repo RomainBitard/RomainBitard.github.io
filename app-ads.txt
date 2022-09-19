@@ -1,3 +1,4 @@
+smartadserver.com, 4194, RESELLER
 openx.com, 557921525, RESELLER, 6a698e2ec38604c6
 Pubmatic.com, 157800, RESELLER, 5d62403b186f2ace
 Pubmatic.com, 158118, RESELLER, 5d62403b186f2ace
