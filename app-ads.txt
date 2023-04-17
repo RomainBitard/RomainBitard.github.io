@@ -814,6 +814,8 @@ smartadserver.com,4202,RESELLER
 smartadserver.com,4210,RESELLER
 smartadserver.com,4322,RESELLER
 smartadserver.com,4383,RESELLER
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
 smartclip.net, 13039, RESELLER
 smartclip.net,12358,RESELLER
 smartyads.com, 100034, RESELLER, fd2bde0ff2e62c5d
