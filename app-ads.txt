@@ -1,3 +1,8 @@
+appnexus.com, 11826, RESELLER
+appnexus.com, 13227, RESELLER
+google.com, pub-9676322583250348, RESELLER
+pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
+Xapads.com, 155860, RESELLER
 acd.op.hicloud.com,pub_hw_1003,RESELLER
 acexchange.co.kr,1416775282,RESELLER
 acexchange.co.kr,1562884725,RESELLER
