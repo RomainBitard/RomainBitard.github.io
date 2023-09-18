@@ -1,3 +1,4 @@
+adingo.jp,30456,RESELLER
 Xapads.com,155860,RESELLER
 acd.op.hicloud.com,pub_hw_1003,RESELLER
 acexchange.co.kr,1416775282,RESELLER
