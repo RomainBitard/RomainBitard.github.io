@@ -1580,6 +1580,8 @@ xapads.com, 194000, RESELLER
 yandex.com, 94923424, RESELLER
 #=== END CASExchange 
 #=== END CASExchange
+pangleglobal.com,5007382,DIRECT
+pubmatic.com,161490,RESELLER,5d62403b186f2ace
 adingo.jp,30456,RESELLER
 Xapads.com,155860,RESELLER
 acd.op.hicloud.com,pub_hw_1003,RESELLER
