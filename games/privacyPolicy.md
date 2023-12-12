@@ -89,6 +89,26 @@ This Service may contain links to other sites. If you click on a third-party lin
 These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
 
 
+**Ads**
+
+ We show ads on certain products, but not all of them. If we show you ads, you’ll be able to continue using our products for free with ads, or you can choose to subscribe to use them without ads.
+
+| If you use our Products for free with ads    | If you subscribe to use our Products without ads |
+| -------- | ------- |
+| You will see ads.  | You won’t see ads on our Products.    |
+| You won’t pay a fee to use our Products. | You’ll be charged a fee.     |
+| Your information will be used for ads    | Your information won’t be used for ads.    |
+
+We hope that you’ll agree to these Terms and continue to use our products. If you don’t want to accept the changes, you can choose to leave our services, and we would be sorry to see you go. 
+
+By choosing to use our products for free, you can discover new products and brands through ads. 
+
+Subscribing to use our Products without ads is only available in the European Region. After you subscribe, you’ll stop seeing ads within 24 hours or after restarting your app
+
+**Why does the product ask for my consent?**
+
+If you choose to use our Products for free with ads, you will be asked to allow the product to use your information for ads. Laws require that you should be able to freely choose if you opt-in to the use of your information involving combining and cross-using your information and certain use of cookies. We rely on your consent as our legal basis for this information use. You can withdraw your consent at any time. 
+
 **Changes to This Privacy Policy**
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
