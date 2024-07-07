@@ -17,3 +17,7 @@ bitard.romain+yellowdwarf(at)gmail(dot)com
 # Solitaire
 bitard.romain+solitaire(at)gmail(dot)com
 (Replace (at) with @ and (dot) with .)
+
+# Other
+bitard.romain+support(at)gmail(dot)com
+(Replace (at) with @ and (dot) with .)
