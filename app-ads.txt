@@ -1,3 +1,4 @@
+rubiconproject.com,22884,DIRECT,0bfd66d529a55807
 admanmedia.com, 2242, RESELLER
 appnexus.com, 15349, RESELLER, f5ab79cb980f11d1
 bid-matrix.com, f2c71a45ea149366, RESELLER
