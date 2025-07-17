@@ -78,5 +78,5 @@ Le gagnant est le premier joueur à réussir à se débarrasser de toutes les ca
 Une carte exposée doit être jouée. ex. vous prenez une carte de votre main, vous devez la jouer et ne pouvez pas la remettre
 Il n'y a pas de jokers dans ce jeu.
 
-# Découvrez mes autres jeux
+# **Découvrez mes autres jeux**
 [![Mes Apps](PlayStoresIconsFR.png)](https://onelink.to/gkhhrc)
