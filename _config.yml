@@ -1,33 +1,12 @@
-markdown: GFM
-
 #JustTheDocs
-
 theme: just-the-docs
-url: https://romainbitard.github.io/flinch
-title: "Flinch Rules"
-description: "Rules of the card game Flinch !"
-# different instances of just the docs
-collections:
-  flinch:
-    output: true
-    permalink: /flinch/:name/
-  #instance2:
-   # output: true
-    #permalink: /instance2/:name/
+title: "Home"
+#baseurl: "/"
+#url: "/"
+description: "Home of romain"
+search_enabled: false
+heading_anchors: false
+include: 
+- "app-ads.txt"
+- "games/*"
 
-# Default settings for collections
-defaults:
-  - scope:
-      path: "_flinch"
-    values:
-      layout: default
-      nav_exclude: false
-  #- scope:
-   #   path: "_instance2"
-   # values:
-    #  layout: default
-    #  nav_exclude: false
-
-# Just the Docs theme settings
-search_enabled: true
-heading_anchors: true

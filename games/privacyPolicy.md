@@ -1,4 +1,6 @@
-
+---
+layout: minimal
+---
 # Privacy Policy for my games
 
 In order to evaluate and possibly enter into a business transaction (the "Purpose"), Unscripted Engineering, for itself and its subsidiaries and affiliates, and the other party identified below hereby agree:
@@ -118,9 +120,12 @@ This policy is effective as of 2022-06-29
 
 **Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at bitard.romain+crapette(at)gmail(dot)com
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at 
+bitard.romain+crapette(at)gmail(dot)com
 bitard.romain+yellowdwarf(at)gmail(dot)com
 bitard.romain+solitaire(at)gmail(dot)com
+bitard.romain+gojo(at)gmail(dot)com
+bitard.romain+hawktuah(at)gmail(dot)com
 (Replace (at) with @ and (dot) with .)
 
 

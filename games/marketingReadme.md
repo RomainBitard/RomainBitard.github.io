@@ -1,3 +1,6 @@
+---
+layout: minimal
+---
 # MarketingURL
 A URL with marketing informations about my apps.
 
@@ -16,6 +19,9 @@ It's a french card game with a mix of luck and skill where the goal is to play a
 ## Classic klondike with a twist
 You have more cards and suits and you can shuffle hidden cards to create new plays if you feel stucked
 
+# Gojo tap challenge
+
+# Hawk tuah run
 
 # Join the community on Discord 
 

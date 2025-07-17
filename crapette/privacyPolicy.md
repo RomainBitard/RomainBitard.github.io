@@ -1,4 +1,6 @@
-
+---
+layout: minimal
+---
 # Privacy Policy for Crapette
 
 In order to evaluate and possibly enter into a business transaction (the "Purpose"), Unscripted Engineering, for itself and its subsidiaries and affiliates, and the other party identified below hereby agree:
