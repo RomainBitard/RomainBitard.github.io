@@ -11,7 +11,7 @@ Il se joue avec 10 paquets de 15 cartes numérotées de 1 à 15
 ## **Joueurs**
 Il se joue de 2 à 8 joueurs mais cette application ne permet que jusqu'à 4 joueurs pour le moment
 
-## **La disposition**
+## **Disposition**
 Il y a plusieurs piles :
 	
 * ### **Les piles flinch** : 
@@ -21,19 +21,19 @@ Il y a plusieurs piles :
 ##### Chaque joueur a jusqu'à 5 cartes, cachées des adversaires
 
 * ### **La pile de pioche**
-##### Placée au centre de la table, elle consiste en les cartes restantes qui n'ont pas encore été distribuées et qui serviront de pile de pioche
+##### Placée au centre de la table, ce sont les cartes restantes qui n'ont pas encore été distribuées et qui serviront de pile de pioche
 
 * ### **Les piles de réserve**
 ##### Chaque joueur a 5 piles séparées de cartes devant lui où il placera ses cartes (généralement une par une) chaque fois qu'il souhaite terminer son tour
 Après que les cinq piles soient formées, un joueur peut jouer des cartes sur n'importe quelle pile souhaitée
 
-* ### **Piles jouables**
-##### Au centre de la table se trouvent 10 (le nombre de paquets) piles jouables qui sont jouables par quiconque. Chaque joueur peut placer pendant son tour des cartes de 1 à 15 par ordre croissant. Une fois qu'une pile atteint 15, elle est défaussée et ajoutée plus tard à la pile des cartes restantes quand nécessaire.
+* ### **Piles jouables centrales**
+##### Au centre de la table se trouvent 10 (le nombre de paquets) piles jouables par quiconque. Chaque joueur peut placer pendant son tour des cartes de 1 à 15 par ordre croissant. Une fois qu'une pile atteint 15, elle est défaussée et ajoutée plus tard à la pile des cartes restantes.
 		
 ## **Début du jeu**
 Les cartes sont mélangées et distribuées dans cet ordre : 
 * 10 cartes à chaque joueur pour leur pile flinch
-* 5 cartes pour leurs mains
+* 5 cartes constituant leur main
 * Le reste est placé sur la pile de pioche
 	
 ## **Comment jouer**
