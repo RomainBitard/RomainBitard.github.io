@@ -1,10 +1,11 @@
 markdown: GFM
 
 #JustTheDocs
-remote_theme: just-the-docs/just-the-docs
+
+theme: just-the-docs
+url: https://romainbitard.github.io/flinch
 title: "Flinch Rules"
 description: "Rules of the card game Flinch !"
-
 # different instances of just the docs
 collections:
   flinch:
