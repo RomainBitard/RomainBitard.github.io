@@ -78,5 +78,9 @@ Le gagnant est le premier joueur à réussir à se débarrasser de toutes les ca
 Une carte exposée doit être jouée. ex. vous prenez une carte de votre main, vous devez la jouer et ne pouvez pas la remettre
 Il n'y a pas de jokers dans ce jeu.
 
+# **Personnalisation**
+Vous pouvez changer le nombre de paquets (de 10 à 20), le nombre de cartes flinch (de 1 à 10) et la valeur max des cartes (de 5 à 15)
+
+
 # **Découvrez mes autres jeux**
 [![Mes Apps](PlayStoresIconsFR.png)](https://onelink.to/gkhhrc)

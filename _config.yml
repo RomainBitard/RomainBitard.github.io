@@ -10,3 +10,4 @@ include:
 - "app-ads.txt"
 - "games/*"
 
+# bundle exec jekyll serve

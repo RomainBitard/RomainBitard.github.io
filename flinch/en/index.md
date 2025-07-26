@@ -78,6 +78,9 @@ The winner is the first player to successfully get rid of all of the cards in hi
 An exposed card must be played. e.g. you take a card from your hand, you have to play it and can't put it back
 There are no jokers in this game
 
+# **Customization**
+You can change the number of decks (from 10 to 20), the number of flinch cards (from 1 to 10) and the max card value (from 5 to 15)
+
 # **Checkout my other games**
 [![My Apps](PlayStoresIconsENG.png)](https://onelink.to/gkhhrc)
 
