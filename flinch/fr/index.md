@@ -83,4 +83,4 @@ Vous pouvez changer le nombre de paquets (de 10 à 20), le nombre de cartes flin
 
 
 # **Découvrez mes autres jeux**
-[![Mes Apps](PlayStoresIconsFR.png)](https://onelink.to/gkhhrc)
+[![Mes Apps](../../icons/PlayStoresIconsFR.png)](https://onelink.to/gkhhrc)

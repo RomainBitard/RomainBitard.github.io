@@ -1,205 +1,359 @@
 {"0": {
+    "doc": "Crapette multiplayer help",
+    "title": "Multiplayer Help",
+    "content": " ",
+    "url": "/crapette/multiplayer-help/en/#multiplayer-help",
+    
+    "relUrl": "/crapette/multiplayer-help/en/#multiplayer-help"
+  },"1": {
+    "doc": "Crapette multiplayer help",
+    "title": "Basics",
+    "content": "Before heading up to multiplayer you should try to play vs bots (first option in the main menu). Once you get the hang of things you can head out to multiplayer mode. The main page is listing the public servers, find one that isn’t full and click the join button. Either wait for people to show up or fill the rest of the players with bots (need 2+ players at least). If you need more players, head to crapette’s discord and ask people to come in #find-a-multiplayer-game or #crapette channels. ",
+    "url": "/crapette/multiplayer-help/en/#basics",
+    
+    "relUrl": "/crapette/multiplayer-help/en/#basics"
+  },"2": {
+    "doc": "Crapette multiplayer help",
+    "title": "What to do if there are no servers available",
+    "content": "Head to the “Create” tab and create a game to your liking (set a number of players, rope timer, alternative rules, …). Share the game code with the people you want to play with (or on discord) and wait for them to join . ",
+    "url": "/crapette/multiplayer-help/en/#what-to-do-if-there-are-no-servers-available",
+    
+    "relUrl": "/crapette/multiplayer-help/en/#what-to-do-if-there-are-no-servers-available"
+  },"3": {
+    "doc": "Crapette multiplayer help",
+    "title": "DON’Ts",
+    "content": "Don’t minimize your game for too long or your risk getting a timeout ! . Especially if you created your own game ! Share the code and go back to the game in fullscreen ! . ",
+    "url": "/crapette/multiplayer-help/en/#donts",
+    
+    "relUrl": "/crapette/multiplayer-help/en/#donts"
+  },"4": {
+    "doc": "Crapette multiplayer help",
+    "title": "Customization",
+    "content": "You can play with different rules if you create your own game in the “Create” tab, select alternative rules and you can play using “Go down” only on other people discards ! . ",
+    "url": "/crapette/multiplayer-help/en/#customization",
+    
+    "relUrl": "/crapette/multiplayer-help/en/#customization"
+  },"5": {
+    "doc": "Crapette multiplayer help",
+    "title": "Bots",
+    "content": "You can fill the room with bots, they are quite strong but they don’t play perfectly though ! . ",
+    "url": "/crapette/multiplayer-help/en/#bots",
+    
+    "relUrl": "/crapette/multiplayer-help/en/#bots"
+  },"6": {
+    "doc": "Crapette multiplayer help",
+    "title": "I Still Need Help !!",
+    "content": "If you didn’t find an answer to your question here, feel free to come to the discord and ask anything ! . ",
+    "url": "/crapette/multiplayer-help/en/#i-still-need-help-",
+    
+    "relUrl": "/crapette/multiplayer-help/en/#i-still-need-help-"
+  },"7": {
+    "doc": "Crapette multiplayer help",
+    "title": "Feedback",
+    "content": "If you have some feedback I’m happy to listen and implement it if it’s possible ! . ",
+    "url": "/crapette/multiplayer-help/en/#feedback",
+    
+    "relUrl": "/crapette/multiplayer-help/en/#feedback"
+  },"8": {
+    "doc": "Crapette multiplayer help",
+    "title": "Discord click to join",
+    "content": ". ",
+    "url": "/crapette/multiplayer-help/en/#discord-click-to-join",
+    
+    "relUrl": "/crapette/multiplayer-help/en/#discord-click-to-join"
+  },"9": {
+    "doc": "Crapette multiplayer help",
+    "title": "Checkout My Other Games",
+    "content": ". ",
+    "url": "/crapette/multiplayer-help/en/#checkout-my-other-games",
+    
+    "relUrl": "/crapette/multiplayer-help/en/#checkout-my-other-games"
+  },"10": {
+    "doc": "Crapette multiplayer help",
+    "title": "Crapette multiplayer help",
+    "content": " ",
+    "url": "/crapette/multiplayer-help/en/",
+    
+    "relUrl": "/crapette/multiplayer-help/en/"
+  },"11": {
+    "doc": "Crapette aide au multijoueur",
+    "title": "Aide au multijoueur",
+    "content": " ",
+    "url": "/crapette/multiplayer-help/fr/#aide-au-multijoueur",
+    
+    "relUrl": "/crapette/multiplayer-help/fr/#aide-au-multijoueur"
+  },"12": {
+    "doc": "Crapette aide au multijoueur",
+    "title": "La base",
+    "content": "Avant de vous rendre en multijoueur vous devriez essayer de jouer contre l’ordinateur (le premier bouton du menu principal) . Une fois que vous avez bien compris vous pouvez essayer le mode multijoueur. La page principale répertorie les serveurs publiques, trouvez en un qui n’est pas plein et cliquez sur le bouton rejoindre. Soit vous attendez que d’autres personnes rejoignent soit vous remplissez le reste des joueurs par des ordinateurs (2 joueurs minimum requis). Si vous avez besoin de plus de joueurs, rendez-vous sur le discord de la crapette and demandez à des personnes de venir sur les canaux #trouver-une-partie-multijoueur ou #crapette. ",
+    "url": "/crapette/multiplayer-help/fr/#la-base",
+    
+    "relUrl": "/crapette/multiplayer-help/fr/#la-base"
+  },"13": {
+    "doc": "Crapette aide au multijoueur",
+    "title": "Que faire s’il n’y a pas de serveurs disponibles",
+    "content": "Allez sur l’onglet “Creer” et creez une partie selon vos envies (choisissez un nombre de joueur, un temps pour la corde, les règles alternatives, …). Partagez le code de partie avec la ou les personnes avec qui vous souhaitez jouer (ou sur discord) et attendez qu’ils rejoignent . ",
+    "url": "/crapette/multiplayer-help/fr/#que-faire-sil-ny-a-pas-de-serveurs-disponibles",
+    
+    "relUrl": "/crapette/multiplayer-help/fr/#que-faire-sil-ny-a-pas-de-serveurs-disponibles"
+  },"14": {
+    "doc": "Crapette aide au multijoueur",
+    "title": "A ne pas faire",
+    "content": "Ne minimisez pas le jeu trop longtemps au risque de vous faire déconnecter . Surtout si vous avez créé votre propre partie ! Partagez le code et remettez le jeu en plein écran ! . ",
+    "url": "/crapette/multiplayer-help/fr/#a-ne-pas-faire",
+    
+    "relUrl": "/crapette/multiplayer-help/fr/#a-ne-pas-faire"
+  },"15": {
+    "doc": "Crapette aide au multijoueur",
+    "title": "Personnalisation",
+    "content": "Vous pouvez jouer avec différentes règles si vous créez votre propre partie dans l’onglet “Creer”. Choisissez les règles alternatives and vous pourrez jouer uniquement en “descendant” sur les défausses adverses ! . ",
+    "url": "/crapette/multiplayer-help/fr/#personnalisation",
+    
+    "relUrl": "/crapette/multiplayer-help/fr/#personnalisation"
+  },"16": {
+    "doc": "Crapette aide au multijoueur",
+    "title": "Ordinateur",
+    "content": "Vous pouvez compléter les salles avec des ordinateurs, ils sont plutôt bons mais ne jouent pas parfaitement par contre ! . ",
+    "url": "/crapette/multiplayer-help/fr/#ordinateur",
+    
+    "relUrl": "/crapette/multiplayer-help/fr/#ordinateur"
+  },"17": {
+    "doc": "Crapette aide au multijoueur",
+    "title": "J’ai toujours besoin d’aide !!",
+    "content": "Si vous n’avez pas trouver de réponse à votre question ici, venez en parler sur le discord ! . ",
+    "url": "/crapette/multiplayer-help/fr/#jai-toujours-besoin-daide-",
+    
+    "relUrl": "/crapette/multiplayer-help/fr/#jai-toujours-besoin-daide-"
+  },"18": {
+    "doc": "Crapette aide au multijoueur",
+    "title": "Suggestions/Améliorations",
+    "content": "Si vous avez des suggestions ou améliorations je serais ravis de vous écouter et de les rajouter si cela est faisable ! . ",
+    "url": "/crapette/multiplayer-help/fr/#suggestionsam%C3%A9liorations",
+    
+    "relUrl": "/crapette/multiplayer-help/fr/#suggestionsaméliorations"
+  },"19": {
+    "doc": "Crapette aide au multijoueur",
+    "title": "Discord cliquez pour rejoindre",
+    "content": ". ",
+    "url": "/crapette/multiplayer-help/fr/#discord-cliquez-pour-rejoindre",
+    
+    "relUrl": "/crapette/multiplayer-help/fr/#discord-cliquez-pour-rejoindre"
+  },"20": {
+    "doc": "Crapette aide au multijoueur",
+    "title": "Découvrez mes autres jeux",
+    "content": ". ",
+    "url": "/crapette/multiplayer-help/fr/#d%C3%A9couvrez-mes-autres-jeux",
+    
+    "relUrl": "/crapette/multiplayer-help/fr/#découvrez-mes-autres-jeux"
+  },"21": {
+    "doc": "Crapette aide au multijoueur",
+    "title": "Crapette aide au multijoueur",
+    "content": " ",
+    "url": "/crapette/multiplayer-help/fr/",
+    
+    "relUrl": "/crapette/multiplayer-help/fr/"
+  },"22": {
     "doc": "Règles du Flinch",
     "title": "Règles du jeu Flinch",
     "content": " ",
     "url": "/flinch/fr/#r%C3%A8gles-du-jeu-flinch",
     
     "relUrl": "/flinch/fr/#règles-du-jeu-flinch"
-  },"1": {
+  },"23": {
     "doc": "Règles du Flinch",
     "title": "Base",
     "content": "Flinch est un jeu de cartes traditionnel où le but est de vider une pile spécifique appelée la pile flinch Il se joue avec 10 paquets de 15 cartes numérotées de 1 à 15 . ",
     "url": "/flinch/fr/#base",
     
     "relUrl": "/flinch/fr/#base"
-  },"2": {
+  },"24": {
     "doc": "Règles du Flinch",
     "title": "Joueurs",
     "content": "Il se joue de 2 à 8 joueurs mais cette application ne permet que jusqu’à 4 joueurs pour le moment . ",
     "url": "/flinch/fr/#joueurs",
     
     "relUrl": "/flinch/fr/#joueurs"
-  },"3": {
+  },"25": {
     "doc": "Règles du Flinch",
     "title": "Disposition",
     "content": "Il y a plusieurs piles : . | Les piles flinch : . Chaque joueur reçoit 10 cartes distribuées face cachée sauf la dernière . | Les mains . Chaque joueur a jusqu’à 5 cartes, cachées des adversaires . | La pile de pioche . Placée au centre de la table, ce sont les cartes restantes qui n’ont pas encore été distribuées et qui serviront de pile de pioche . | Les piles de réserve . Chaque joueur a 5 piles séparées de cartes devant lui où il placera ses cartes (généralement une par une) chaque fois qu’il souhaite terminer son tour . Après que les cinq piles soient formées, un joueur peut jouer des cartes sur n’importe quelle pile souhaitée . | Piles jouables centrales . Au centre de la table se trouvent 10 (le nombre de paquets) piles jouables par quiconque. Chaque joueur peut placer pendant son tour des cartes de 1 à 15 par ordre croissant. Une fois qu’une pile atteint 15, elle est défaussée et ajoutée plus tard à la pile des cartes restantes. | . ",
     "url": "/flinch/fr/#disposition",
     
     "relUrl": "/flinch/fr/#disposition"
-  },"4": {
+  },"26": {
     "doc": "Règles du Flinch",
     "title": "Début du jeu",
     "content": "Les cartes sont mélangées et distribuées dans cet ordre : . | 10 cartes à chaque joueur pour leur pile flinch | 5 cartes constituant leur main | Le reste est placé sur la pile de pioche | . ",
     "url": "/flinch/fr/#d%C3%A9but-du-jeu",
     
     "relUrl": "/flinch/fr/#début-du-jeu"
-  },"5": {
+  },"27": {
     "doc": "Règles du Flinch",
     "title": "Comment jouer",
     "content": "Si au moins un joueur a un 1 (main ou pile flinch) . Le premier joueur avec un 1 commence le jeu en le plaçant dans une pile jouable au centre. S’il peut suivre avec un 2, il peut le faire. Un joueur peut empiler des cartes tant qu’il peut jouer, soit de sa main, des piles de réserve ou de la pile flinch. Pour terminer son tour, il place une carte de sa main sur une pile de sa réserve. Si personne n’a de 1 . Chaque joueur défausse sa main dans ses piles de réserve face visible (1 carte par pile de réserve). Chaque joueur pioche 5 cartes et répète la défausse jusqu’à ce qu’un 1 soit trouvé, cette fois chaque joueur peut défausser ses cartes dans n’importe quelle pile de réserve qu’il souhaite. Les joueurs Doivent jouer tous les 1 de leur pile flinch ou de leurs main au milieu de la table, sinon ils peuvent être “Flinchés !” (voir ci-dessous) mais ils n’ont pas besoin de jouer d’autres numéros. Les 1 ne sont jamais joués dans les piles de réserve. Vous devez jouer de votre pile flinch en priorité sinon vous pouvez être “Flinché !” . Pendant le jeu, il y aura autant de piles du milieu qu’il y a de 1 qui ont été joués. Chaque joueur peut jouer sur chaque pile du milieu tant que les cartes sont jouées dans l’ordre croissant et en se suivant directement (1 à 15). Fin de tour . Pour terminer votre tour, vous placez une carte sur une de vos piles de réserve. Un talent considérable sera demandé pour gérer vos réserves car vous devez vous souvenir quelles cartes ont été mises où pour pouvoir les jouer plus tard. Il est préférable de les organiser par ordre décroissant, ainsi vous pouvez les dépiler une par une quand nécessaire. ",
     "url": "/flinch/fr/#comment-jouer",
     
     "relUrl": "/flinch/fr/#comment-jouer"
-  },"6": {
+  },"28": {
     "doc": "Règles du Flinch",
     "title": "Piocher",
     "content": "Chaque fois que vous n’avez plus de cartes, vous pouvez piocher tant que c’est encore votre tour. ex. si vous placez votre dernière carte sur votre pile de réserve, vous ne piocherez qu’à votre prochain tour. ",
     "url": "/flinch/fr/#piocher",
     
     "relUrl": "/flinch/fr/#piocher"
-  },"7": {
+  },"29": {
     "doc": "Règles du Flinch",
     "title": "Flincher",
     "content": "Si un joueur fait une erreur pendant son tour, cela est considéré comme un “Flinch” et chaque joueur peut crier “Flinch !” à  tout moment. Le premier joueur à  crier flinch avec succès prendra sa carte flinch du dessus et la placera en bas de la pile du joueur “flinché”, terminant le tour du joueur flinché sur le champ. ",
     "url": "/flinch/fr/#flincher",
     
     "relUrl": "/flinch/fr/#flincher"
-  },"8": {
+  },"30": {
     "doc": "Règles du Flinch",
     "title": "Cas de Flinch",
     "content": ". | Un joueur a joué une carte de sa réserve ou de sa main avant de jouer de sa pile flinch. | Un joueur a joué une carte de sa main ou de sa réserve avant de jouer un 1 de sa main. | . ",
     "url": "/flinch/fr/#cas-de-flinch",
     
     "relUrl": "/flinch/fr/#cas-de-flinch"
-  },"9": {
+  },"31": {
     "doc": "Règles du Flinch",
     "title": "Condition de victoire",
     "content": "Le gagnant est le premier joueur à réussir à se débarrasser de toutes les cartes de sa pile flinch. ",
     "url": "/flinch/fr/#condition-de-victoire",
     
     "relUrl": "/flinch/fr/#condition-de-victoire"
-  },"10": {
+  },"32": {
     "doc": "Règles du Flinch",
     "title": "Notes supplémentaires",
     "content": "Une carte exposée doit être jouée. ex. vous prenez une carte de votre main, vous devez la jouer et ne pouvez pas la remettre Il n’y a pas de jokers dans ce jeu. ",
     "url": "/flinch/fr/#notes-suppl%C3%A9mentaires",
     
     "relUrl": "/flinch/fr/#notes-supplémentaires"
-  },"11": {
+  },"33": {
     "doc": "Règles du Flinch",
     "title": "Personnalisation",
     "content": "Vous pouvez changer le nombre de paquets (de 10 à 20), le nombre de cartes flinch (de 1 à 10) et la valeur max des cartes (de 5 à 15) . ",
     "url": "/flinch/fr/#personnalisation",
     
     "relUrl": "/flinch/fr/#personnalisation"
-  },"12": {
+  },"34": {
     "doc": "Règles du Flinch",
     "title": "Découvrez mes autres jeux",
     "content": ". ",
     "url": "/flinch/fr/#d%C3%A9couvrez-mes-autres-jeux",
     
     "relUrl": "/flinch/fr/#découvrez-mes-autres-jeux"
-  },"13": {
+  },"35": {
     "doc": "Règles du Flinch",
     "title": "Règles du Flinch",
     "content": " ",
     "url": "/flinch/fr/",
     
     "relUrl": "/flinch/fr/"
-  },"14": {
-    "doc": "Main Hub",
-    "title": "Main Hub",
-    "content": "Main page to assist in navigation, each link is a unique site . ",
-    "url": "/",
-    
-    "relUrl": "/"
-  },"15": {
-    "doc": "Main Hub",
-    "title": "Available sites",
-    "content": ". | Flinch Rules - Flinch card game documentation | Policies, Support, Marketing - Policies, Support, Marketing documents for my games | . ",
-    "url": "/#available-sites",
-    
-    "relUrl": "/#available-sites"
-  },"16": {
+  },"36": {
     "doc": "Flinch rules",
     "title": "Flinch rules",
     "content": " ",
     "url": "/flinch/en/",
     
     "relUrl": "/flinch/en/"
-  },"17": {
+  },"37": {
     "doc": "Flinch rules",
     "title": "Basics",
     "content": "Flinch is a Traditional card game where the goal is to empty a specific pile called the flinch pile It is played with 10 decks of 15 cards numbered from 1 to 15 . ",
     "url": "/flinch/en/#basics",
     
     "relUrl": "/flinch/en/#basics"
-  },"18": {
+  },"38": {
     "doc": "Flinch rules",
     "title": "Players",
     "content": "It is played from two to 8 but this application allows up to 4 players at the moment . ",
     "url": "/flinch/en/#players",
     
     "relUrl": "/flinch/en/#players"
-  },"19": {
+  },"39": {
     "doc": "Flinch rules",
     "title": "The layout",
     "content": "There are several piles: . | The flinch piles: . Each player receives 10 cards dealt face down except for the last one . | The hands . Each player have up to 5 cards hidden from the opponents . | The stack . Placed at the center of the table, it consists of the remaining cards that haven’t been dealt yet and that will serve as the draw pile . | The reserve piles . Each player have 5 separate piles of cards in front of him where he’ll place his cards (generally one by one) whenever he wished to end his turn . After the five piles are formed a player can play cards to whichever pile he wishes . | middle common piles . At the center of the table are 10 (the number of decks) piles that are playable by anyone. Each player may place during their turn cards from 1 to 15 in ascending order. Once a pile reached 15 it is discarded and is added later to the stack of remaining cards when needed. | . ",
     "url": "/flinch/en/#the-layout",
     
     "relUrl": "/flinch/en/#the-layout"
-  },"20": {
+  },"40": {
     "doc": "Flinch rules",
     "title": "Start of the game",
     "content": "The cards are shuffled and dealt in that order : . | 10 cards to each player for their flinch pile | 5 cards for their hands | The remainder is placed on the stack | . ",
     "url": "/flinch/en/#start-of-the-game",
     
     "relUrl": "/flinch/en/#start-of-the-game"
-  },"21": {
+  },"41": {
     "doc": "Flinch rules",
     "title": "How to play",
     "content": "If one player at least have a 1 (hand or flinch pile) . The first player with a 1 begins the game by placing it in playable pile in the center. If he can follow with a 2 he may do it. A player can stack cards as long as he can play, either from his hand, reserve piles or flinch pile. To end his turn he places a card from his hand to a reserve pile . If no one has a 1 . Each player put their hand in their reserve piles face up (1 card per reserve pile) Each player draw 5 cards and repeat the discard until a 1 is found, this time each player can discard their cards in any reserve pile they wish. Players Must play all of the 1s from their flinch pile or from their hands to the middle of the table, otherwise they may be “Flinched!” (see below) but they don’t need to play any other numbers 1s are never played in reserve piles You must play from your flinch pile in priority otherwise you may be “Flinched!” . During the game there will be as many middle piles as there are 1s which have been played. Each player can play on each middle pile as long as the cards are played in ascending order and following directly (1 to 15) . End of turn . To end your turn you place a card on one of your reserve pile. Considerable skill may be used to manage your reserves as you need to remember which cards were put to play them later. It is best to arrange them in descending order, that way you can unfold them 1 by 1 when needed . ",
     "url": "/flinch/en/#how-to-play",
     
     "relUrl": "/flinch/en/#how-to-play"
-  },"22": {
+  },"42": {
     "doc": "Flinch rules",
     "title": "Drawing",
     "content": "Whenever you are out of cards you may draw as long as it is still your turn. e.g. if you place your last card on your reserve pile, you won’t draw until your next turn . ",
     "url": "/flinch/en/#drawing",
     
     "relUrl": "/flinch/en/#drawing"
-  },"23": {
+  },"43": {
     "doc": "Flinch rules",
     "title": "Flinching",
     "content": "If a player makes a mistake during his turn, it is considered a “Flinch” and each player can call “Flinch!” at any moment. The first player to successfully call flinch will take his top flinch card and place it at the bottom of the “flinched” player, ending the flinched player turn on the spot. ",
     "url": "/flinch/en/#flinching",
     
     "relUrl": "/flinch/en/#flinching"
-  },"24": {
+  },"44": {
     "doc": "Flinch rules",
     "title": "Flinch cases",
     "content": ". | A player played a card from his reserve or hand before playing from his flinch pile | A player played a card from his hand or reserve before playing a 1 from his hand | . ",
     "url": "/flinch/en/#flinch-cases",
     
     "relUrl": "/flinch/en/#flinch-cases"
-  },"25": {
+  },"45": {
     "doc": "Flinch rules",
     "title": "Win condition",
     "content": "The winner is the first player to successfully get rid of all of the cards in his flinch pile . ",
     "url": "/flinch/en/#win-condition",
     
     "relUrl": "/flinch/en/#win-condition"
-  },"26": {
+  },"46": {
     "doc": "Flinch rules",
     "title": "Additional Notes",
     "content": "An exposed card must be played. e.g. you take a card from your hand, you have to play it and can’t put it back There are no jokers in this game . ",
     "url": "/flinch/en/#additional-notes",
     
     "relUrl": "/flinch/en/#additional-notes"
-  },"27": {
+  },"47": {
     "doc": "Flinch rules",
     "title": "Customization",
     "content": "You can change the number of decks (from 10 to 20), the number of flinch cards (from 1 to 10) and the max card value (from 5 to 15) . ",
     "url": "/flinch/en/#customization",
     
     "relUrl": "/flinch/en/#customization"
-  },"28": {
+  },"48": {
     "doc": "Flinch rules",
     "title": "Checkout my other games",
     "content": ". ",
     "url": "/flinch/en/#checkout-my-other-games",
     
     "relUrl": "/flinch/en/#checkout-my-other-games"
+  },"49": {
+    "doc": "Main Hub",
+    "title": "Main Hub",
+    "content": "Main page to assist in navigation, each link is a unique site . ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"50": {
+    "doc": "Main Hub",
+    "title": "Available sites",
+    "content": ". | Crapette - Crapette multiplayer help | Flinch Rules - Flinch card game documentation | Policies, Support, Marketing - Policies, Support, Marketing documents for my games | . ",
+    "url": "/#available-sites",
+    
+    "relUrl": "/#available-sites"
   }
 }

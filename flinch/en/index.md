@@ -82,5 +82,5 @@ There are no jokers in this game
 You can change the number of decks (from 10 to 20), the number of flinch cards (from 1 to 10) and the max card value (from 5 to 15)
 
 # **Checkout my other games**
-[![My Apps](PlayStoresIconsENG.png)](https://onelink.to/gkhhrc)
+[![My Apps](../../icons/PlayStoresIconsENG.png)](https://onelink.to/gkhhrc)
 
