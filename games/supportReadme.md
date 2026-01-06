@@ -12,13 +12,16 @@ A URL with support informations for my apps
 bitard.romain+crapette(at)gmail(dot)com
 (Replace (at) with @ and (dot) with .)
 
-
 # NainJaune/YellowDwarf!
 bitard.romain+yellowdwarf(at)gmail(dot)com
 (Replace (at) with @ and (dot) with .)
 
 # Solitaire
 bitard.romain+solitaire(at)gmail(dot)com
+(Replace (at) with @ and (dot) with .)
+
+# Flappy RPG | Flappy Grind
+bitard.romain+flappyrpg(at)gmail(dot)com
 (Replace (at) with @ and (dot) with .)
 
 # Other
