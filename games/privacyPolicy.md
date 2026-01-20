@@ -126,6 +126,8 @@ bitard.romain+yellowdwarf(at)gmail(dot)com
 bitard.romain+solitaire(at)gmail(dot)com
 bitard.romain+gojo(at)gmail(dot)com
 bitard.romain+hawktuah(at)gmail(dot)com
+bitard.romain+vo2max(at)gmail(dot)com
+bitard.romain+other(at)gmail(dot)com
 (Replace (at) with @ and (dot) with .)
 
 

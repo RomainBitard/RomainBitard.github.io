@@ -24,6 +24,10 @@ bitard.romain+solitaire(at)gmail(dot)com
 bitard.romain+flappyrpg(at)gmail(dot)com
 (Replace (at) with @ and (dot) with .)
 
+# VO2Max HIIT Workout
+bitard.romain+vo2max(at)gmail(dot)com
+(Replace (at) with @ and (dot) with .)
+
 # Other
 bitard.romain+support(at)gmail(dot)com
 (Replace (at) with @ and (dot) with .)

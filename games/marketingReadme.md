@@ -20,8 +20,13 @@ It's a french card game with a mix of luck and skill where the goal is to play a
 You have more cards and suits and you can shuffle hidden cards to create new plays if you feel stucked
 
 # Gojo tap challenge
+A fun little collection of hyper casual games
 
 # Hawk tuah run
+A fun little roguelite hypercasual
+
+# VO2Max HIIT Workout
+An app dedicated to improving your VO2Max using science backed protocols
 
 # Join the community on Discord 
 
