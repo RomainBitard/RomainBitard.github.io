@@ -20,7 +20,8 @@ bitard.romain+yellowdwarf(at)gmail(dot)com
 bitard.romain+solitaire(at)gmail(dot)com
 (Replace (at) with @ and (dot) with .)
 
-# Flappy RPG | Flappy Grind
+
+# Flappy RPG (android) | Grumpy RPG (ios)
 bitard.romain+flappyrpg(at)gmail(dot)com
 (Replace (at) with @ and (dot) with .)
 
