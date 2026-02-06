@@ -66,7 +66,7 @@ When it's your turn, the following cards are considered available:
 - the revealed top card of your reserve;
 - the outermost (or lowest value) card in each of the eight houses of the tableau.
 
-(When cards are added to the tableau, the cards in each house are overlapped in a row extending away from the foundation piles, as shown in the diagram below. The available outermost card of a house is therefore the card most recently added to that house, the only one which is not partially covered.)
+(When cards are added to the tableau, the cards in each house are overlapped in a row extending away from the foundation piles. The available outermost card of a house is therefore the card most recently added to that house, the only one which is not partially covered.)
 
 Cards can become available later : 
 
@@ -82,7 +82,7 @@ Available cards can be played one at a time to any of the eight foundation piles
 - **Foundations:** an empty foundation space can only be filled by an available Ace.
  Once the ace is played you can add cards of the same suit in ascending order from 2 to K (23456789TJQK). e.g. you can only place the 6 of hearts onto a 5 of hearts. Once the king is reached the pile is locked, usually indicated by flipping the king face down.
 - **Houses:** the cards are built in descending sequence with alternating colours.
-e.g. you can only place a black 9 on a red 10. Cards are overlapped slightly so that the whole sequence can be seen (see image below). If the house is empty you can play any available card on it.
+e.g. you can only place a black 9 on a red 10. Cards are overlapped slightly so that the whole sequence can be seen. If the house is empty you can play any available card on it.
 - **Reserve and waste pile:** you can "load" your opponent's reserve and waste pile by adding a card of the same suit as the exposed card, of the next higher or next lower rank (+/- 1 rank difference). 
 e.g. if the top card of your opponent's reserve is an 8 of clubs you can place either an available 9 of clubs or a 7 of clubs. You can load as many cards as are available (e.g. you load a 7 of clubs, then the 6 of clubs then another 7 of clubs and so on)
 

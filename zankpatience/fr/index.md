@@ -65,7 +65,7 @@ Quand c'est votre tour, les cartes suivantes sont considérées comme disponible
 - la carte visible du dessus de votre réserve ;
 - la carte la plus extérieure (ou de plus faible valeur) dans chacune des huit maisons du tableau.
 
-(Quand des cartes sont ajoutées au tableau, les cartes de chaque maison se chevauchent en une rangée s'étendant loin des piles de fondation, comme montré dans le diagramme ci-dessous. La carte disponible la plus extérieure d'une maison est donc la carte la plus récemment ajoutée à cette maison, la seule qui n'est pas partiellement couverte.)
+(Quand des cartes sont ajoutées au tableau, les cartes de chaque maison se chevauchent en une rangée s'étendant loin des piles de fondation. La carte disponible la plus extérieure d'une maison est donc la carte la plus récemment ajoutée à cette maison, la seule qui n'est pas partiellement couverte.)
 
 Les cartes peuvent devenir disponibles plus tard :
 
@@ -81,7 +81,7 @@ Les cartes disponibles peuvent être jouées une à la fois sur n'importe laquel
 - **Fondations :** un espace de fondation vide ne peut être rempli que par un As disponible.
  Une fois l'as joué, vous pouvez ajouter des cartes de la même enseigne en ordre croissant de 2 à R (23456789DVDR). ex. vous ne pouvez placer que le 6 de cœur sur un 5 de cœur. Une fois le roi atteint, la pile est verrouillée, généralement indiqué en retournant le roi face cachée.
 - **Maisons :** les cartes sont construites en séquence descendante avec des couleurs alternées.
-ex. vous ne pouvez placer qu'un 9 noir sur un 10 rouge. Les cartes se chevauchent légèrement pour que toute la séquence puisse être vue (voir image ci-dessous). Si la maison est vide, vous pouvez y jouer n'importe quelle carte disponible.
+ex. vous ne pouvez placer qu'un 9 noir sur un 10 rouge. Les cartes se chevauchent légèrement pour que toute la séquence puisse être vue. Si la maison est vide, vous pouvez y jouer n'importe quelle carte disponible.
 - **Réserve et pile de défausse :** vous pouvez « charger » la réserve et la pile de défausse de votre adversaire en ajoutant une carte de la même enseigne que la carte exposée, du rang immédiatement supérieur ou inférieur (+/- 1 rang de différence).
 ex. si la carte du dessus de la réserve de votre adversaire est un 8 de trèfle, vous pouvez placer soit un 9 de trèfle soit un 7 de trèfle disponible. Vous pouvez charger autant de cartes qu'il y en a de disponibles (ex. vous chargez un 7 de trèfle, puis le 6 de trèfle, puis un autre 7 de trèfle et ainsi de suite)
 
