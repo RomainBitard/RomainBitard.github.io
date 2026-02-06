@@ -1,6 +1,8 @@
 ---
 title: Crapette multiplayer help
-layout: minimal
+layout: default
+parent: English
+nav_order: 1
 ---
 
 # **Multiplayer Help**

@@ -1,6 +1,8 @@
 ---
 title: Flinch rules
-layout: minimal
+layout: default
+parent: English
+nav_order: 2
 ---
 
 # Flinch rules

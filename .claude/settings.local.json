@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la \"F:\\\\dev\\\\RomainBitard.github.io\\\\games\"\" && ls -la \"F:devRomainBitard.github.iocrapette\"\")",
+      "Bash(tree:*)",
+      "Bash(cat:*)"
+    ]
+  }
+}

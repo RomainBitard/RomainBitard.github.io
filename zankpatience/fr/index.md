@@ -1,147 +1,168 @@
 ---
 title: Règles du Zank-Patience
-layout: minimal
+layout: default
+parent: Français
+nav_order: 3
 ---
 
 # Règles du Zank-Patience
 
 ## Introduction
 
-La Crapette (Russian Bank en anglais) est un jeu de patience compétitif pour deux joueurs. Il a plus de 100 ans : par exemple, il est décrit sous le nom de Zank-Patience dans l'ouvrage allemand Illustrirtes Buch der Patiencen, Breslau 1884/85. Il est joué en Grande-Bretagne et en Amérique du Nord, et est également populaire en France, où il est appelé Crapette. En Allemagne, il est aussi connu sous les noms de Streitpatience ou Schikanös–Patience. En Amérique du Nord, il est parfois appelé Stop ou Touch, car lorsqu'un joueur fait un coup illégal, ou dans certaines versions même touche une carte qui ne peut pas être légalement déplacée, l'adversaire peut arrêter le jeu et prendre la main. Au Moyen-Orient, il est connu sous le nom de Tonj (parfois orthographié Tunj, Tonge ou Tunge).
+La Crapette (Russian Bank en anglais) est un jeu de patience compétitif pour deux joueurs.
+Il est connu depuis plus de 100 ans sous de multiples noms comme Zank-Patience dans le livre allemand « Illustrirtes Buch der Patiencen, Breslau 1884/85 » ou Streitpatience et Schikanös–Patience.
+Il est populaire en France où il est connu sous le nom de Crapette. Il est aussi joué dans de nombreux pays comme l'Amérique du Nord ou la Grande-Bretagne où il est parfois appelé « Touch » ou « Stop » à cause de son gameplay (quand vous faites un coup illégal, l'adversaire peut crier stop (ou crapette en français) pour vous empêcher de finir votre tour).
+Au Moyen-Orient, il est connu sous le nom de Tonj, Tunj, Tonge ou Tunge.
 
 ## Joueurs et Cartes
 
-Il y a deux joueurs et deux jeux standard de 52 cartes sont nécessaires, un pour chaque joueur. Il est pratique d'utiliser des jeux avec des dos différents, car ils se mélangent pendant la partie et doivent être séparés à la fin du jeu, prêts pour la partie suivante.
+Ce jeu à deux joueurs nécessite aussi deux jeux standard de 52 cartes, un pour chaque joueur. En général, on utilise des jeux avec des dos différents car les cartes se mélangent en jouant les unes sur les autres et il faut les séparer pour la partie suivante.
 
 ## Disposition initiale
 
-Chaque joueur mélange soigneusement le jeu de l'autre joueur.
+Chaque joueur mélange le jeu de l'autre joueur puis échange les jeux.
 
-Chaque joueur distribue de son propre jeu une pile de 12 cartes face cachée, et une 13ème carte face visible sur le dessus. Cette pile est appelée la réserve du joueur (ou crape) et est placée à la droite du joueur.
+Chaque joueur distribue de son propre jeu la réserve :
+* une pile de 12 cartes face cachée, avec une 13ème carte face visible sur le dessus.
+En général le joueur place cette pile à sa droite.
 
-Ensuite, chaque joueur distribue 4 cartes face visible en colonne au-dessus de la réserve, sans chevauchement, en commençant par la position la plus éloignée du joueur. Ces quatre cartes sont appelées maisons et les huit maisons (quatre distribuées par chaque joueur) sont collectivement appelées le tableau. Les deux colonnes de quatre cartes doivent avoir un espace d'au moins deux cartes de large entre elles, pour laisser de la place aux huit piles de fondation qui seront construites à partir des as dans cet espace. Pendant le jeu, les huit maisons du tableau et les huit espaces de fondation sont propriété commune et peuvent être utilisés par les deux joueurs.
+Ensuite chaque joueur distribue les maisons :
+* 4 cartes chacune face visible en colonne au-dessus de la réserve, sans chevauchement, en commençant par la position la plus éloignée du joueur. Au total il y a 8 maisons (connues sous le nom de tableau).
 
-Chaque joueur aura 35 cartes restantes qui sont placées dans une pile face cachée à gauche (à l'extrémité de la colonne de maisons de l'adversaire). Ces cartes sont appelées la main du joueur. Cette distribution produit une disposition symétrique comme montré dans le diagramme suivant. L'espace entre la main et la réserve est utilisé pour stocker la pile de défausse du joueur, qui se forme pendant le jeu.
+Laissez entre les 2 colonnes un espace d'au moins 2 cartes de large entre elles, il servira pour les 8 piles de fondation qui vont de l'As au Roi.
+Les 8 maisons du tableau ainsi que les 8 fondations appartiennent aux deux joueurs et peuvent être utilisées par n'importe qui.
 
-Note : la littérature sur ce jeu utilise une variété de termes différents pour décrire les différentes piles de cartes.
+Les cartes restantes (35) appelées la main (ou la pioche), sont placées face cachée à gauche de chaque joueur.
+Vous devriez avoir une disposition symétrique comme montré ci-dessous. Entre la main et la réserve se trouve la pile de défausse où un joueur jouera une carte pour signifier la fin de son tour.
 
-- La réserve est parfois appelée le stock ou la crapette.
-- La main est parfois appelée le stock ou le talon.
-- La pile de défausse est parfois appelée la pile d'écart ou talon.
+![Disposition initiale](../layout-fr.svg)
+
+Choisissez bien comment vous nommez vos piles et tenez-vous-y, le même terme peut désigner une pile différente selon l'endroit dans le monde où vous jouez :
+- La réserve peut aussi être appelée le stock ou la crapette.
+- La main peut aussi être appelée le stock, le talon ou la pioche.
+- La pile de défausse peut aussi être appelée la pile d'écart ou talon.
 - Les piles de fondation sont aussi connues comme piles centrales.
-
-L'ambiguïté des mots « stock » et « talon », qui ont des significations différentes selon les auteurs, est regrettable, et j'ai donc évité ces termes dans cette description.
 
 ## Objectif
 
-L'objectif est d'être le premier joueur à se débarrasser de toutes les cartes de sa main, pile de défausse et réserve. Ceci est accompli en les jouant sur les fondations ou le tableau, et en les chargeant sur la réserve et la pile de défausse de l'adversaire.
+L'objectif est d'être le premier joueur à se débarrasser de toutes les cartes de vos piles personnelles : votre main, défausse et réserve. Ceci est accompli en les jouant sur les fondations ou le tableau, ou sur la réserve et la pile de défausse de votre adversaire.
 
 ## Jeu
 
-Le joueur avec la carte de réserve la plus basse commence à jouer ; à cette fin, les cartes sont classées du Roi (haute) à l'As (basse). Si les cartes de réserve sont égales, alors les cartes de maison à côté de la réserve de chaque joueur sont comparées, et si celles-ci sont également égales, alors la carte de maison suivante, et ainsi de suite ; le joueur avec la carte de maison la plus basse joue en premier. Les joueurs jouent ensuite à tour de rôle jusqu'à ce qu'un joueur gagne en n'ayant plus de cartes de réserve, de défausse et de main, ou jusqu'à ce que le jeu atteigne une impasse où les deux joueurs constatent qu'aucun autre coup depuis leur réserve ou leurs cartes en main n'est possible.
+Le premier joueur est celui qui a la carte la plus basse du dessus de sa réserve (de la plus basse (as) à la plus haute (roi)). S'ils sont de même rang, on compare les cartes des maisons, en commençant par la plus proche de la réserve. Le jeu se joue tour par tour jusqu'à ce qu'un joueur gagne en n'ayant plus de cartes dans sa réserve, défausse ou main, ou jusqu'à ce que le jeu atteigne une impasse si les deux joueurs constatent qu'aucun coup n'est plus possible.
 
-Le tour d'un joueur consiste en une série de mouvements de cartes autour de la disposition, selon des règles strictes. Chaque mouvement consiste à prendre une carte disponible et à la jouer en la plaçant sur une maison du tableau, une pile de fondation ou la réserve ou pile de défausse de votre adversaire, selon les règles de construction. Les mouvements sont soumis à un certain nombre de priorités et certains mouvements sont obligatoires.
 
-À chaque tour, vous pouvez faire autant de mouvements que vous le pouvez et le souhaitez, mais vous devez terminer votre tour lorsque vous n'avez pas de continuation légale ou lorsque votre adversaire vous arrête parce que vous avez fait une erreur de jeu.
+Un joueur peut déplacer des cartes autour de la disposition selon des règles strictes.
+Les cartes sont prises une par une si elles sont considérées comme disponibles et placées sur une maison du tableau, une pile de fondation ou la réserve ou pile de défausse de l'adversaire, selon les règles de construction.
+Vous devez jouer selon certaines priorités car certains coups sont obligatoires.
+
+Vous pouvez jouer aussi longtemps que vous le souhaitez jusqu'à ce que vous n'ayez pas d'autre option que de jouer sur votre pile de défausse ou si l'adversaire vous arrête parce que vous avez fait une erreur.
 
 ## Cartes disponibles
 
-Pendant votre tour, les cartes suivantes sont initialement disponibles :
+Quand c'est votre tour, les cartes suivantes sont considérées comme disponibles :
 
-- la carte supérieure (face visible) de votre réserve ;
-- la carte la plus extérieure dans chacune des huit maisons du tableau. (Lorsque des cartes sont ajoutées au tableau, les cartes de chaque maison se chevauchent en une rangée s'étendant loin des piles de fondation, comme montré dans le diagramme ci-dessous. La carte disponible la plus extérieure d'une maison est donc la carte la plus récemment ajoutée à cette maison, la seule qui n'est pas partiellement couverte.)
+- la carte visible du dessus de votre réserve ;
+- la carte la plus extérieure (ou de plus faible valeur) dans chacune des huit maisons du tableau.
 
-D'autres cartes deviennent disponibles comme suit :
+(Quand des cartes sont ajoutées au tableau, les cartes de chaque maison se chevauchent en une rangée s'étendant loin des piles de fondation, comme montré dans le diagramme ci-dessous. La carte disponible la plus extérieure d'une maison est donc la carte la plus récemment ajoutée à cette maison, la seule qui n'est pas partiellement couverte.)
 
-- Chaque fois que vous jouez la carte du dessus de votre réserve en la déplaçant ailleurs, vous devez immédiatement retourner la carte suivante de votre réserve, qui devient alors disponible. Lorsque vous avez joué la dernière carte de votre réserve, votre réserve reste vide pour le reste de la partie.
-- Lorsqu'il n'y a plus de mouvements obligatoires de cartes disponibles que vous pouvez faire, vous pouvez retourner la carte du dessus de votre main. Vous pouvez choisir de continuer à faire des mouvements volontaires avant de retourner votre carte de main, mais chaque fois qu'aucun mouvement légal n'est disponible, vous devez retourner la carte du dessus de votre main. Lorsque votre carte de main est retournée face visible, elle devient immédiatement disponible. Après avoir joué votre carte de main et fait tous les mouvements obligatoires qui deviennent possibles suite à son jeu, vous pouvez retourner votre carte de main suivante. Si vous êtes incapable de jouer votre carte de main retournée ou ne souhaitez pas le faire, vous devez la placer sur votre pile de défausse, ce qui termine votre tour. Une fois que vous avez placé une carte sur votre pile de défausse, cette carte n'est plus disponible pour vous lors des tours suivants. Cependant, si c'était une carte que vous étiez obligé de jouer selon les priorités et mouvements obligatoires (c'est-à-dire si elle va sur une des piles de fondation), votre adversaire pourrait vous forcer à la jouer là au lieu de sur votre pile de défausse avant qu'il ne commence son tour.
-- S'il ne reste plus de cartes dans votre main quand vient le moment de retourner une nouvelle carte, vous retournez votre pile de défausse, sans mélanger les cartes qu'elle contient, et la placez face cachée à gauche pour former votre nouvelle main. Vous retournez ensuite la carte du dessus de cette nouvelle main et elle devient disponible. Notez que si la dernière carte de votre main est injouable, vous la placez sur votre pile de défausse pour terminer votre tour, mais vous ne retournez pas votre pile de défausse pour faire une nouvelle main jusqu'à votre prochain tour, puisque votre adversaire est autorisé à charger des cartes sur votre pile de défausse pendant son tour.
+Les cartes peuvent devenir disponibles plus tard :
+
+- Après avoir joué la carte du dessus de votre réserve, la carte suivante de votre réserve est immédiatement retournée, la rendant disponible. (Quand il n'y a plus de carte dans votre réserve, elle reste vide jusqu'à la fin de la partie)
+- Si vous n'avez pas de coup obligatoire à faire, vous pouvez retourner la carte du dessus de votre main. Vous pouvez jouer aussi longtemps que possible avant de retourner votre carte de main tant qu'il y a des coups légaux, mais vous devrez éventuellement retourner la carte du dessus de votre main la rendant disponible. Après avoir joué votre carte de main et fait tous les coups obligatoires qui deviennent possibles suite à son jeu, vous pouvez retourner votre carte de main suivante.
+Si vous ne pouvez pas jouer votre carte de main retournée ou ne le souhaitez pas, vous la placez sur votre pile de défausse, terminant votre tour. Les cartes placées sur votre pile de défausse ne sont plus disponibles pour vous. Cependant, si c'était une carte que vous étiez obligé de jouer selon les priorités et coups obligatoires (c'est-à-dire si elle va sur une des piles de fondation), votre adversaire pourrait vous forcer à la jouer là au lieu de sur votre pile de défausse avant qu'il ne commence son tour.
+- Si votre main est vide et que vous avez besoin d'une carte, vous retournez votre pile de défausse, sans mélanger les cartes qu'elle contient, et placez la pile face cachée à gauche pour former votre nouvelle main. Vous pouvez ensuite reprendre le jeu en retournant la carte du dessus de cette nouvelle main. Vous n'êtes pas autorisé à retourner votre pile de défausse pour faire une nouvelle main tant que vous n'avez pas réellement besoin d'une carte de la main car votre adversaire est autorisé à charger des cartes sur votre pile de défausse pendant son tour.
 
 ## Règles de Construction
 
 Les cartes disponibles peuvent être jouées une à la fois sur n'importe laquelle des huit piles de fondation, n'importe laquelle des huit maisons du tableau, ou sur la réserve ou pile de défausse de l'adversaire, à condition que les règles de construction suivantes soient respectées, et sous réserve des priorités et mouvements obligatoires décrits plus tard :
 
-- **Fondations :** un espace de fondation vide ne peut être rempli que par un As disponible. Chacune des huit fondations est ensuite construite en ajoutant des cartes de la même couleur en séquence ascendante : A23456789VDRC. Par exemple, la seule carte qui peut être placée sur le 4 de trèfle est le 5 de trèfle. Aucune autre carte ne peut être ajoutée après le Roi ; il est habituel de retourner le Roi face cachée pour indiquer que la pile de fondation est complète.
-- **Maisons :** sur n'importe laquelle des huit maisons du tableau, les cartes sont construites en séquence descendante avec des couleurs alternées. Par exemple, seul un Sept rouge peut être placé sur un Huit noir ; seul un Dix noir peut être placé sur un Valet rouge. Les cartes sur les maisons se chevauchent pour que toute la séquence puisse être vue (voir diagramme ci-dessous). Une maison vide peut être remplie par n'importe quelle carte disponible.
-- **Réserve et pile de défausse :** un joueur peut « charger » la réserve ou la pile de défausse de l'adversaire en ajoutant une carte de la même enseigne que la carte exposée, du rang immédiatement supérieur ou inférieur. Par exemple, si la carte du dessus de la pile de défausse de votre adversaire est le 9 de carreau, vous pouvez placer un 8 de carreau ou un 10 de carreau disponible dessus, et ayant placé le 8 de carreau, vous pourriez continuer en ajoutant le 7 de carreau ou un second 9 de carreau.
+- **Fondations :** un espace de fondation vide ne peut être rempli que par un As disponible.
+ Une fois l'as joué, vous pouvez ajouter des cartes de la même enseigne en ordre croissant de 2 à R (23456789DVDR). ex. vous ne pouvez placer que le 6 de cœur sur un 5 de cœur. Une fois le roi atteint, la pile est verrouillée, généralement indiqué en retournant le roi face cachée.
+- **Maisons :** les cartes sont construites en séquence descendante avec des couleurs alternées.
+ex. vous ne pouvez placer qu'un 9 noir sur un 10 rouge. Les cartes se chevauchent légèrement pour que toute la séquence puisse être vue (voir image ci-dessous). Si la maison est vide, vous pouvez y jouer n'importe quelle carte disponible.
+- **Réserve et pile de défausse :** vous pouvez « charger » la réserve et la pile de défausse de votre adversaire en ajoutant une carte de la même enseigne que la carte exposée, du rang immédiatement supérieur ou inférieur (+/- 1 rang de différence).
+ex. si la carte du dessus de la réserve de votre adversaire est un 8 de trèfle, vous pouvez placer soit un 9 de trèfle soit un 7 de trèfle disponible. Vous pouvez charger autant de cartes qu'il y en a de disponibles (ex. vous chargez un 7 de trèfle, puis le 6 de trèfle, puis un autre 7 de trèfle et ainsi de suite)
 
 ## Priorités et Mouvements Obligatoires
 
-Certains mouvements sont obligatoires, et il y a des mouvements qui doivent être faits de préférence à d'autres. Les priorités et mouvements obligatoires sont les suivants :
+Certains coups sont obligatoires, et si plusieurs coups sont disponibles vous devez suivre certaines priorités :
 
-1. Si votre carte de réserve peut être jouée sur une pile de fondation, vous devez faire ce mouvement avant tout autre.
-2. Lorsqu'une carte disponible peut être déplacée vers une pile de fondation, il est obligatoire de faire un tel mouvement. S'il y a plusieurs cartes disponibles (autres que votre carte de réserve) qui peuvent être jouées sur les fondations, vous pouvez choisir laquelle jouer en premier.
-3. Si vous avez des cartes dans votre réserve, alors avant d'être autorisé à retourner une carte de votre main, vous devez remplir tous les espaces vides du tableau depuis votre réserve.
+* **(Priorité #1) Réserve vers fondation**, vous devez faire ce mouvement avant tout autre.
 
-Si vous violez l'une des règles de priorité ci-dessus, ou si vous omettez un mouvement obligatoire, ou si vous faites tout autre type de mouvement illégal (comme une violation des règles de construction), votre adversaire peut crier « Stop ! » et expliquer ce que vous avez fait de mal.
+* **(Priorité #2) Toute carte disponible vers une fondation** est un mouvement obligatoire à faire. S'il y a plusieurs cartes disponibles (autres que votre carte de réserve) qui peuvent être jouées sur les fondations, vous pouvez choisir laquelle jouer en premier.
 
-- Si vous avez placé une carte illégalement, vous devez annuler ce mouvement, et c'est alors au tour de votre adversaire de jouer.
-- Si vous avez omis un mouvement obligatoire, alors vous devez reprendre le mouvement que vous avez tenté de faire à la place, et effectuer le mouvement obligatoire. C'est alors au tour de votre adversaire de jouer.
+* **(Priorité #3) Toute carte jouable de votre réserve vers une maison vide**, vous devez remplir toute maison vide avec votre réserve avant d'être autorisé à retourner une carte de votre main.
 
-En d'autres termes, votre adversaire peut crier « Stop ! » si vous faites l'une des choses suivantes :
 
-- Quand la carte du dessus de votre réserve aurait pu être jouée sur une fondation, vous tentez de déplacer une autre carte ou de retourner votre carte de main.
-- Quand il y a une carte disponible qui aurait pu être jouée sur une fondation, vous tentez de déplacer une carte vers un autre endroit, ou de retourner votre carte de main.
-- Vous retournez votre carte de main quand il y a un espace dans le tableau et que votre réserve n'est pas vide.
-- Vous tentez de déplacer une carte vers le tableau, vers une pile de fondation, ou vers la réserve ou pile de défausse de votre adversaire alors qu'elle n'y va pas selon les règles de construction.
-- Vous tentez de déplacer une carte qui n'est pas disponible.
+Si vous ne jouez pas en suivant les règles de priorité ci-dessus, ou si vous ne faites pas un mouvement obligatoire, ou tout type de coup illégal (comme une violation des règles de construction), votre adversaire peut crier « Crapette ! » et expliquer ce que vous avez fait de mal.
 
-Veuillez noter les points suivants :
+- Si vous avez fait un coup illégal, il doit d'abord être annulé avant de perdre votre tour en faveur de votre adversaire.
+- Si vous avez manqué un coup obligatoire, votre mouvement doit être annulé, le coup obligatoire est fait à la place et vous perdez votre tour.
 
-- Contrairement à certains jeux de Solitaire (Patience), dans ce jeu vous n'êtes pas autorisé à déplacer un groupe de cartes d'une maison du tableau à une autre, à moins qu'il y ait suffisamment d'espaces dans le tableau pour permettre au groupe d'être déplacé en déplaçant une carte à la fois. Par exemple, dans la position montrée ci-dessus, il serait illégal de déplacer le 7 de pique-6 de carreau-5 de pique-4 de cœur-3 de pique en groupe sur le 8 de cœur, ou de déplacer le 3 de cœur-2 de pique sur le 4 de trèfle. Pour déplacer le 3-2, vous auriez besoin d'un espace pour tenir le 2 pendant que le 3 est déplacé ; pour déplacer le 7-6-5-4-3 sur le 8, vous auriez besoin de trois espaces dans le tableau.
-- Lors des mouvements, aucune distinction n'est faite entre les cartes des deux jeux. Les motifs au dos sont utilisés uniquement pour trier les cartes en deux jeux complets à la fin de la partie.
-- Il est illégal de déplacer des cartes depuis :
-  - votre propre pile de défausse (mais voir les variantes) ;
-  - la main, la pile de défausse ou le stock de l'adversaire ;
-  - toute pile de fondation.
-- Il est illégal de déplacer des cartes vers :
-  - la main de l'un ou l'autre joueur ;
-  - votre propre réserve ;
-  - votre propre pile de défausse, sauf lorsque vous y placez une de vos cartes de main pour terminer votre tour.
+En résumé, votre adversaire peut crier « Crapette ! » quand :
+
+- Vous déplacez une carte ou retournez votre carte de main alors que la carte du dessus de votre réserve aurait pu être jouée sur une fondation.
+- Vous déplacez une carte ou retournez votre carte de main alors qu'il y a une carte disponible qui aurait pu être jouée sur une fondation.
+- Vous retournez votre carte de main au lieu de jouer votre réserve sur une maison.
+- Vous essayez de déplacer une carte vers une pile incorrecte ne respectant pas les règles de construction (ex. vous n'alternez pas les couleurs sur une maison).
+- Vous essayez de déplacer une carte qui n'est pas disponible (ex. le dessus de votre pile de défausse).
+
+
+
+Notes :
+- Contrairement à certains jeux de Solitaire (Patience), vous n'êtes pas autorisé à déplacer un groupe de cartes d'une maison du tableau à une autre, vous ne pouvez prendre les cartes qu'une par une. Vous pouvez utiliser les maisons vides pour réarranger les piles tant que vous n'omettez pas les coups obligatoires ou de priorité supérieure en prenant les cartes une par une.
+
+- En jouant, il n'y a pas de distinction entre les cartes des deux jeux, leur seul but est de s'assurer que chaque joueur joue avec un jeu complet.
+- Vous ne pouvez pas déplacer de carte de votre propre défausse (sauf dans certaines variantes) ou des piles de votre adversaire (main, défausse, réserve).
+- Les cartes dans les fondations ne peuvent plus être jouées.
+- Vous ne pouvez pas déplacer de carte vers les mains de l'un ou l'autre joueur ou votre propre réserve.
+- Vous ne pouvez placer une carte sur votre propre pile de défausse que depuis votre main (ex. vous ne pouvez pas prendre une carte d'une maison pour charger votre pile de défausse)
 
 ## Fin de la Partie ; Score
 
-Si vous réussissez à jouer toutes vos cartes, de sorte que vous n'en ayez plus dans votre main, réserve ou piles de défausse, vous gagnez et la partie est terminée. Vous marquez 30 points pour avoir gagné la partie, plus 1 point pour chaque carte restante dans la main et les piles de défausse de votre adversaire, plus 2 points pour chaque carte restante dans la réserve de votre adversaire.
+Le premier à jouer toutes ses cartes (main, réserve, défausse) gagne et la partie est terminée. Vous gagnez 30 points pour avoir remporté la partie, 1 point pour chaque carte restante dans la main et la pile de défausse de votre adversaire, et 2 points pour chaque carte restante dans la réserve de votre adversaire.
 
-Si une impasse est atteinte dans laquelle aucun joueur ne peut jouer depuis sa réserve ou sa main, celui qui a le plus petit compte de cartes restantes (comptant comme d'habitude 1 point pour chaque carte restante dans la main ou la pile de défausse, plus 2 points pour chaque carte restante dans la réserve) marque la différence entre les comptes des deux joueurs. Il n'y a pas de bonus de 30 points pour gagner la partie dans ce cas.
+En cas d'impasse, il n'y a pas de bonus de 30 points. Chaque joueur compte ses cartes restantes (1 point pour chaque carte restante dans la main ou la pile de défausse, 2 points pour chaque carte restante dans la réserve) et le plus bas score marque la différence entre les comptes des deux joueurs. (ex. le joueur A a 12 et le joueur B a 20, le joueur A marque 8)
 
-Après chaque partie, les jeux sont séparés et mélangés, prêts pour une nouvelle partie. Le premier joueur à atteindre ou dépasser un score cible convenu - par exemple 300 points - en autant de parties qu'il faut, est le vainqueur final.
+Après chaque partie, séparez et mélangez les jeux pour préparer la suivante.
+
+Le premier joueur à atteindre le score cible à la fin d'une partie gagne le match
 
 ## Variantes
 
-Beaucoup jouent que la carte du dessus de votre propre pile de défausse est disponible sur la même base que les cartes les plus extérieures des maisons. Dans cette version, la carte du dessus de votre pile de défausse doit être déplacée vers une pile de fondation quand c'est possible, et peut être déplacée vers une maison ou chargée sur la défausse ou réserve de votre adversaire quand elle convient.
+* La carte du dessus de votre pile de défausse est disponible, vous pouvez la jouer sur une pile de fondation, une maison ou sur les piles de votre adversaire.
 
-Certains jouent avec une réserve initiale de 11 ou 12 cartes plutôt que 13. Les mains sont alors proportionnellement plus grandes.
+* Vous pouvez ajuster la taille de la réserve (11 ou 12 cartes au lieu de 13) et avoir des mains plus grandes en conséquence.
 
-Il existe plusieurs façons alternatives de décider qui commence :
+* Variations sur qui commence en premier :
+1. Vous coupez votre jeu avant de distribuer et utilisez cette carte pour décider (le plus bas commence en général)
+2. La carte de réserve la plus haute gagne (l'As est considéré comme le plus haut (ARDV1098765432)) si les rangs sont égaux, vous utilisez les enseignes en ordre décroissant : pique, cœur, carreau, trèfle.
+3. Utilisez uniquement les cartes du tableau et non la réserve pour décider.
+4. Si vous jouez plusieurs parties, le joueur qui a commencé en premier laisse l'autre commencer la partie suivante.
 
-- Certains jouent que les cartes sont coupées avant la distribution pour décider qui commencera - la carte la plus basse commence.
-- Certains jouent que le joueur avec la carte de réserve la plus haute commence, les cartes étant classées à cette fin dans l'ordre décroissant ARDV109876543 2. Quand les cartes de réserve sont égales, les enseignes sont classées dans l'ordre décroissant : pique, cœur, carreau, trèfle.
-- Certains choisissent le premier joueur basé uniquement sur les cartes du tableau, ignorant la réserve.
-- Lors d'une série de parties jusqu'à un score cible, il peut être convenu que les joueurs commencent à tour de rôle.
+* Règles de priorité plus strictes :
+1. Les cartes disponibles doivent être jouées au centre, il est aussi obligatoire de libérer les cartes qui pourraient finir dans une fondation en déplaçant des cartes pour les rendre disponibles, ne pas voir cette opportunité est une faute.
+2. Si vous ne pouvez pas jouer sur une fondation, il est obligatoire de jouer sur les piles de votre adversaire (défausse ou réserve) quand c'est possible.
+3. C'est une faute si vous retournez votre carte de main alors que vous pourriez créer un espace dans le tableau.
 
-Certains jouent avec des règles de priorité plus strictes, en plus des règles données ci-dessus.
+* Variante du Tableau
+En disposant les tableaux, chaque joueur place une carte dans chacune de ses 4 maisons face cachée, puis distribue une carte face visible chevauchant la carte cachée.
+Quand la carte face cachée est exposée en retirant la carte visible qui était dessus, vous pouvez retourner la carte cachée. Les 3 règles ci-dessus sont utilisées plus une autre :
+4. Quand vous ne pouvez pas jouer sur les fondations, le joueur doit essayer de jouer pour découvrir les cartes cachées restantes.
 
-- Non seulement les cartes disponibles doivent être jouées au centre, mais il est également obligatoire de libérer toute carte du tableau qui pourrait être déplacée vers une fondation, en déplaçant les cartes qui la couvrent vers d'autres emplacements, chaque fois que c'est possible.
-- S'il n'y a pas de coups possibles vers les piles de fondation, il est obligatoire de charger des cartes sur la pile de défausse ou la réserve de l'adversaire chaque fois que cela peut être fait.
-- Avant de retourner votre carte de main, il est obligatoire de créer autant d'espaces que possible dans le tableau et de les remplir depuis votre réserve.
+* Il existe des règles encore plus strictes comme une règle 1 plus dure : si vous pouvez libérer une carte du tableau, cela doit être fait avec le moins de coups possible.
 
-Variante du Tableau : Certains disposent les tableaux comme suit : d'abord chaque joueur place une carte face cachée dans chaque maison, en commençant par l'espace le plus proche de la réserve du joueur ; puis une carte face visible est distribuée à chaque maison, chevauchant la carte face cachée. Quand une carte face cachée est exposée en déplaçant la carte face visible qui était dessus, la carte face cachée est retournée face visible. Dans le jeu, les trois règles strictes ci-dessus sont observées, avec une quatrième règle :
+* Il y a des règles moins strictes, par exemple vous pouvez retourner votre carte de main dès le début de votre tour, ou la regarder pendant que votre adversaire joue encore.
 
-- Après que toutes les cartes possibles ont été jouées sur les piles de fondation, le joueur doit si possible jouer de manière à découvrir les cartes face cachée restantes.
+* Vos cartes de réserve sont cachées au départ jusqu'à ce que tout coup possible soit fait, puis vous pouvez retourner votre carte de réserve et les règles habituelles s'appliquent.
 
-Certains jouent avec une version encore plus stricte de la règle 1 ci-dessus, que si une carte enfouie dans le tableau peut être libérée et déplacée vers une pile de fondation, cela doit être fait en un minimum de mouvements.
+* Certains permettent de déplacer des piles de cartes de la maison en entier tant qu'elles forment une séquence descendante, généralement quand on joue comme ça, on ne peut plus prendre de cartes individuelles des piles dans les maisons (sauf pour les déplacer vers les fondations)
 
-D'autre part, certaines personnes jouent avec des règles de priorité moins strictes. Par exemple, certains vous permettent de retourner votre carte de main au début de votre tour, ou même de la regarder en privé avant le début de votre tour, pendant que l'autre personne joue encore.
+* **Variante Simplifiée :** Au lieu de 2 jeux, un seul jeu standard de 52 cartes est nécessaire. Un joueur joue avec les cœurs et les trèfles, et l'autre avec les piques et les carreaux. Maisons réduites de 4 à 3 pour chacun. La taille de la main et de la réserve est réduite mais non spécifiée ; Günther Senst suggère une réserve de 5 cartes et une main de 17 cartes.
 
-Certains jouent que toute votre réserve est initialement face cachée. À votre premier tour, vous devez faire tous les mouvements possibles du tableau vers les piles de fondation avant de retourner la carte du dessus de votre réserve. Par la suite, dès que la carte du dessus de votre réserve est jouée, vous retournez la carte suivante si elle est face cachée.
-
-David Crossley décrit une version plus permissive du jeu dans laquelle les cartes peuvent être déplacées autour du tableau non seulement individuellement mais en groupes. Cela doit être fait de telle manière que les cartes dans chaque maison forment toujours une séquence descendante en couleurs alternées, et chaque fois qu'une carte du tableau est déplacée, toutes les cartes empilées dessus doivent être déplacées avec elle en groupe.
-
-Sur le site web http://home.arcor.de/ebwegner/Zank-Pat.htm (copie d'archive) Eberhard Wegner a décrit une variante simplifiée pour deux joueurs (peut-être pour les enfants ou les débutants ?) et une variante pour trois joueurs.
-
-- **Variante Simplifiée :** Un seul jeu standard de 52 cartes est utilisé. Un joueur joue avec les cœurs et les trèfles, et l'autre avec les piques et les carreaux. Chacun a un tableau de seulement trois maisons. La taille de la main et de la réserve n'est pas spécifiée ; Günther Senst suggère une réserve de 5 cartes et une main de 17 cartes. Les règles restantes sont comme dans le jeu normal.
-- **Partie à Trois Joueurs :** Deux jeux standard de 52 cartes plus un joker sont utilisés. Ceux-ci sont mélangés et chaque joueur reçoit 35 cartes, à partir desquelles une réserve et trois maisons sont disposées. La taille de la réserve et de la main ne sont pas spécifiées non plus ; suggestion : réserve de 8 cartes et main de 24 cartes. La première fois qu'une maison est vidée, elle n'est plus utilisée, de sorte qu'après cela il n'y a que huit maisons et la disposition ressemble à celle du jeu normal à deux joueurs (sauf que le troisième joueur a aussi une réserve, une pile de défausse et une main). Quand le joker apparaît, il est simplement mis de côté, hors du jeu. Les règles restantes sont comme dans le jeu normal.
+* **Partie à Trois Joueurs :** 2 jeux standard de 52 cartes plus un joker sont utilisés et mélangés ensemble. Chaque joueur reçoit 35 cartes pour construire sa réserve et trois maisons. La taille de la réserve et de la main ne sont pas spécifiées, certains utilisent 8 cartes pour les réserves et 24 cartes pour les mains. La première maison à être vidée est simplement retirée du jeu, de sorte que le reste de la partie se joue comme un jeu à deux joueurs avec 8 maisons (mais un troisième joueur avec sa propre défausse, réserve et main). Le joker est simplement mis de côté quand il apparaît.
 
 # **Découvrez mes autres jeux**
 [![Mes Apps](../../icons/PlayStoresIconsFR.png)](https://onelink.to/gkhhrc)

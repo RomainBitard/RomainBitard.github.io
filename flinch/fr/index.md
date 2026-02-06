@@ -1,6 +1,8 @@
 ---
 title: Règles du Flinch
-layout: minimal
+layout: default
+parent: Français
+nav_order: 2
 ---
 
 # Règles du jeu Flinch

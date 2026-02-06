@@ -1,0 +1,218 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 780" font-family="Arial, Helvetica, sans-serif">
+  <defs>
+    <pattern id="back" width="10" height="10" patternUnits="userSpaceOnUse">
+      <rect width="10" height="10" fill="#1a5fb4"/>
+      <path d="M5,0 L10,5 L5,10 L0,5 Z" fill="#154a9e" stroke="#2d73cc" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+
+  <!-- ==================== JOUEUR B (haut) ==================== -->
+  <text x="262" y="18" text-anchor="middle" font-size="18" font-weight="bold">JOUEUR B</text>
+  <text x="262" y="38" text-anchor="middle" font-size="11" font-style="italic">D&#233;fausse de B</text>
+
+  <!-- R&#233;serve de B : 7 de tr&#232;fle -->
+  <g transform="translate(98,55)">
+    <rect width="70" height="98" rx="5" fill="white" stroke="black" stroke-width="1.5"/>
+    <text x="5" y="17" font-size="15" font-weight="bold" fill="black">7</text>
+    <text x="7" y="31" font-size="13" fill="black">&#9827;</text>
+    <text x="35" y="65" font-size="28" text-anchor="middle" fill="black">&#9827;</text>
+    <g transform="translate(70,98) rotate(180)">
+      <text x="5" y="17" font-size="15" font-weight="bold" fill="black">7</text>
+      <text x="7" y="31" font-size="13" fill="black">&#9827;</text>
+    </g>
+  </g>
+  <!-- Label r&#233;serve de B -->
+  <text text-anchor="end" font-size="9.5" font-weight="bold">
+    <tspan x="90" y="70">R&#233;serve de B</tspan>
+    <tspan x="90" dy="12">(13 cartes)</tspan>
+    <tspan x="90" dy="12">carte du dessus</tspan>
+    <tspan x="90" dy="12">face visible</tspan>
+  </text>
+
+  <!-- Emplacement d&#233;fausse (vide, pointill&#233;) -->
+  <rect x="227" y="55" width="70" height="98" rx="5" fill="none" stroke="black" stroke-width="1" stroke-dasharray="6,4"/>
+
+  <!-- Main de B : face cach&#233;e -->
+  <g transform="translate(356,55)">
+    <rect width="70" height="98" rx="5" fill="url(#back)" stroke="#0d3f80" stroke-width="1.5"/>
+    <rect x="4" y="4" width="62" height="90" rx="3" fill="none" stroke="#4488dd" stroke-width="1"/>
+  </g>
+  <!-- Label main de B -->
+  <text font-size="9.5" font-weight="bold">
+    <tspan x="434" y="70">Main de B</tspan>
+    <tspan x="434" dy="12">(35 cartes)</tspan>
+    <tspan x="434" dy="12">face cach&#233;e</tspan>
+  </text>
+
+  <!-- ==================== TABLEAU RANG&#201;E 1 (y=169) ==================== -->
+  <!-- 9 de coeur (tableau de B) -->
+  <g transform="translate(98,169)">
+    <rect width="70" height="98" rx="5" fill="white" stroke="black" stroke-width="1.5"/>
+    <text x="5" y="17" font-size="15" font-weight="bold" fill="red">9</text>
+    <text x="7" y="31" font-size="13" fill="red">&#9829;</text>
+    <text x="35" y="65" font-size="28" text-anchor="middle" fill="red">&#9829;</text>
+    <g transform="translate(70,98) rotate(180)">
+      <text x="5" y="17" font-size="15" font-weight="bold" fill="red">9</text>
+      <text x="7" y="31" font-size="13" fill="red">&#9829;</text>
+    </g>
+  </g>
+  <!-- Espaces fondation -->
+  <rect x="184" y="169" width="70" height="98" rx="5" fill="none" stroke="black" stroke-width="1" stroke-dasharray="6,4"/>
+  <rect x="270" y="169" width="70" height="98" rx="5" fill="none" stroke="black" stroke-width="1" stroke-dasharray="6,4"/>
+  <!-- 4 de carreau (tableau de A) -->
+  <g transform="translate(356,169)">
+    <rect width="70" height="98" rx="5" fill="white" stroke="black" stroke-width="1.5"/>
+    <text x="5" y="17" font-size="15" font-weight="bold" fill="red">4</text>
+    <text x="7" y="31" font-size="13" fill="red">&#9830;</text>
+    <text x="35" y="65" font-size="28" text-anchor="middle" fill="red">&#9830;</text>
+    <g transform="translate(70,98) rotate(180)">
+      <text x="5" y="17" font-size="15" font-weight="bold" fill="red">4</text>
+      <text x="7" y="31" font-size="13" fill="red">&#9830;</text>
+    </g>
+  </g>
+
+  <!-- ==================== TABLEAU RANG&#201;E 2 (y=283) ==================== -->
+  <!-- 6 de carreau (tableau de B) -->
+  <g transform="translate(98,283)">
+    <rect width="70" height="98" rx="5" fill="white" stroke="black" stroke-width="1.5"/>
+    <text x="5" y="17" font-size="15" font-weight="bold" fill="red">6</text>
+    <text x="7" y="31" font-size="13" fill="red">&#9830;</text>
+    <text x="35" y="65" font-size="28" text-anchor="middle" fill="red">&#9830;</text>
+    <g transform="translate(70,98) rotate(180)">
+      <text x="5" y="17" font-size="15" font-weight="bold" fill="red">6</text>
+      <text x="7" y="31" font-size="13" fill="red">&#9830;</text>
+    </g>
+  </g>
+  <!-- Espaces fondation -->
+  <rect x="184" y="283" width="70" height="98" rx="5" fill="none" stroke="black" stroke-width="1" stroke-dasharray="6,4"/>
+  <rect x="270" y="283" width="70" height="98" rx="5" fill="none" stroke="black" stroke-width="1" stroke-dasharray="6,4"/>
+  <!-- 10 de tr&#232;fle (tableau de A) -->
+  <g transform="translate(356,283)">
+    <rect width="70" height="98" rx="5" fill="white" stroke="black" stroke-width="1.5"/>
+    <text x="4" y="17" font-size="13" font-weight="bold" fill="black">10</text>
+    <text x="7" y="31" font-size="13" fill="black">&#9827;</text>
+    <text x="35" y="65" font-size="28" text-anchor="middle" fill="black">&#9827;</text>
+    <g transform="translate(70,98) rotate(180)">
+      <text x="4" y="17" font-size="13" font-weight="bold" fill="black">10</text>
+      <text x="7" y="31" font-size="13" fill="black">&#9827;</text>
+    </g>
+  </g>
+
+  <!-- ==================== TABLEAU RANG&#201;E 3 (y=397) ==================== -->
+  <!-- Roi de pique (tableau de B) -->
+  <g transform="translate(98,397)">
+    <rect width="70" height="98" rx="5" fill="white" stroke="black" stroke-width="1.5"/>
+    <text x="5" y="17" font-size="15" font-weight="bold" fill="black">R</text>
+    <text x="7" y="31" font-size="13" fill="black">&#9824;</text>
+    <text x="35" y="65" font-size="28" text-anchor="middle" fill="black">&#9824;</text>
+    <g transform="translate(70,98) rotate(180)">
+      <text x="5" y="17" font-size="15" font-weight="bold" fill="black">R</text>
+      <text x="7" y="31" font-size="13" fill="black">&#9824;</text>
+    </g>
+  </g>
+  <!-- Espaces fondation -->
+  <rect x="184" y="397" width="70" height="98" rx="5" fill="none" stroke="black" stroke-width="1" stroke-dasharray="6,4"/>
+  <rect x="270" y="397" width="70" height="98" rx="5" fill="none" stroke="black" stroke-width="1" stroke-dasharray="6,4"/>
+  <!-- 8 de pique (tableau de A) -->
+  <g transform="translate(356,397)">
+    <rect width="70" height="98" rx="5" fill="white" stroke="black" stroke-width="1.5"/>
+    <text x="5" y="17" font-size="15" font-weight="bold" fill="black">8</text>
+    <text x="7" y="31" font-size="13" fill="black">&#9824;</text>
+    <text x="35" y="65" font-size="28" text-anchor="middle" fill="black">&#9824;</text>
+    <g transform="translate(70,98) rotate(180)">
+      <text x="5" y="17" font-size="15" font-weight="bold" fill="black">8</text>
+      <text x="7" y="31" font-size="13" fill="black">&#9824;</text>
+    </g>
+  </g>
+
+  <!-- ==================== TABLEAU RANG&#201;E 4 (y=511) ==================== -->
+  <!-- Valet de coeur (tableau de B) -->
+  <g transform="translate(98,511)">
+    <rect width="70" height="98" rx="5" fill="white" stroke="black" stroke-width="1.5"/>
+    <text x="5" y="17" font-size="15" font-weight="bold" fill="red">V</text>
+    <text x="7" y="31" font-size="13" fill="red">&#9829;</text>
+    <text x="35" y="65" font-size="28" text-anchor="middle" fill="red">&#9829;</text>
+    <g transform="translate(70,98) rotate(180)">
+      <text x="5" y="17" font-size="15" font-weight="bold" fill="red">V</text>
+      <text x="7" y="31" font-size="13" fill="red">&#9829;</text>
+    </g>
+  </g>
+  <!-- Espaces fondation -->
+  <rect x="184" y="511" width="70" height="98" rx="5" fill="none" stroke="black" stroke-width="1" stroke-dasharray="6,4"/>
+  <rect x="270" y="511" width="70" height="98" rx="5" fill="none" stroke="black" stroke-width="1" stroke-dasharray="6,4"/>
+  <!-- 3 de carreau (tableau de A) -->
+  <g transform="translate(356,511)">
+    <rect width="70" height="98" rx="5" fill="white" stroke="black" stroke-width="1.5"/>
+    <text x="5" y="17" font-size="15" font-weight="bold" fill="red">3</text>
+    <text x="7" y="31" font-size="13" fill="red">&#9830;</text>
+    <text x="35" y="65" font-size="28" text-anchor="middle" fill="red">&#9830;</text>
+    <g transform="translate(70,98) rotate(180)">
+      <text x="5" y="17" font-size="15" font-weight="bold" fill="red">3</text>
+      <text x="7" y="31" font-size="13" fill="red">&#9830;</text>
+    </g>
+  </g>
+
+  <!-- ==================== LABELS LAT&#201;RAUX DU TABLEAU ==================== -->
+  <!-- Crochet et label gauche -->
+  <line x1="92" y1="174" x2="92" y2="604" stroke="black" stroke-width="1"/>
+  <line x1="92" y1="174" x2="96" y2="174" stroke="black" stroke-width="1"/>
+  <line x1="92" y1="604" x2="96" y2="604" stroke="black" stroke-width="1"/>
+  <text text-anchor="end" font-size="9.5" font-weight="bold">
+    <tspan x="86" y="340">Quatre</tspan>
+    <tspan x="86" dy="12">cartes</tspan>
+    <tspan x="86" dy="12">face visible</tspan>
+    <tspan x="86" dy="12">du tableau</tspan>
+    <tspan x="86" dy="12">distribu&#233;es</tspan>
+    <tspan x="86" dy="12">par B</tspan>
+  </text>
+  <!-- Crochet et label droit -->
+  <line x1="432" y1="174" x2="432" y2="604" stroke="black" stroke-width="1"/>
+  <line x1="428" y1="174" x2="432" y2="174" stroke="black" stroke-width="1"/>
+  <line x1="428" y1="604" x2="432" y2="604" stroke="black" stroke-width="1"/>
+  <text font-size="9.5" font-weight="bold">
+    <tspan x="438" y="340">Quatre</tspan>
+    <tspan x="438" dy="12">cartes</tspan>
+    <tspan x="438" dy="12">face visible</tspan>
+    <tspan x="438" dy="12">du tableau</tspan>
+    <tspan x="438" dy="12">distribu&#233;es</tspan>
+    <tspan x="438" dy="12">par A</tspan>
+  </text>
+
+  <!-- ==================== JOUEUR A (bas) ==================== -->
+  <!-- Main de A : face cach&#233;e -->
+  <g transform="translate(98,625)">
+    <rect width="70" height="98" rx="5" fill="url(#back)" stroke="#0d3f80" stroke-width="1.5"/>
+    <rect x="4" y="4" width="62" height="90" rx="3" fill="none" stroke="#4488dd" stroke-width="1"/>
+  </g>
+  <!-- Label main de A -->
+  <text text-anchor="end" font-size="9.5" font-weight="bold">
+    <tspan x="90" y="644">Main de A</tspan>
+    <tspan x="90" dy="12">(35 cartes)</tspan>
+    <tspan x="90" dy="12">face cach&#233;e</tspan>
+  </text>
+
+  <!-- Emplacement d&#233;fausse (vide, pointill&#233;) -->
+  <rect x="227" y="625" width="70" height="98" rx="5" fill="none" stroke="black" stroke-width="1" stroke-dasharray="6,4"/>
+
+  <!-- R&#233;serve de A : Dame de coeur -->
+  <g transform="translate(356,625)">
+    <rect width="70" height="98" rx="5" fill="white" stroke="black" stroke-width="1.5"/>
+    <text x="5" y="17" font-size="15" font-weight="bold" fill="red">D</text>
+    <text x="7" y="31" font-size="13" fill="red">&#9829;</text>
+    <text x="35" y="65" font-size="28" text-anchor="middle" fill="red">&#9829;</text>
+    <g transform="translate(70,98) rotate(180)">
+      <text x="5" y="17" font-size="15" font-weight="bold" fill="red">D</text>
+      <text x="7" y="31" font-size="13" fill="red">&#9829;</text>
+    </g>
+  </g>
+  <!-- Label r&#233;serve de A -->
+  <text font-size="9.5" font-weight="bold">
+    <tspan x="434" y="636">R&#233;serve de A</tspan>
+    <tspan x="434" dy="12">(13 cartes)</tspan>
+    <tspan x="434" dy="12">carte du dessus</tspan>
+    <tspan x="434" dy="12">face visible</tspan>
+  </text>
+
+  <text x="262" y="742" text-anchor="middle" font-size="11" font-style="italic">D&#233;fausse de A</text>
+  <text x="262" y="765" text-anchor="middle" font-size="18" font-weight="bold">JOUEUR A</text>
+</svg>

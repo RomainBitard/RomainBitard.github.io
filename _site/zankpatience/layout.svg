@@ -1,0 +1,220 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 780" font-family="Arial, Helvetica, sans-serif">
+  <defs>
+    <pattern id="back" width="10" height="10" patternUnits="userSpaceOnUse">
+      <rect width="10" height="10" fill="#1a5fb4"/>
+      <path d="M5,0 L10,5 L5,10 L0,5 Z" fill="#154a9e" stroke="#2d73cc" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+
+  <!-- ==================== PLAYER B (top) ==================== -->
+  <text x="252" y="18" text-anchor="middle" font-size="18" font-weight="bold">PLAYER B</text>
+  <text x="252" y="38" text-anchor="middle" font-size="11" font-style="italic">B's waste pile</text>
+
+  <!-- B's reserve: 7 of clubs -->
+  <g transform="translate(88,55)">
+    <rect width="70" height="98" rx="5" fill="white" stroke="black" stroke-width="1.5"/>
+    <text x="5" y="17" font-size="15" font-weight="bold" fill="black">7</text>
+    <text x="7" y="31" font-size="13" fill="black">&#9827;</text>
+    <text x="35" y="65" font-size="28" text-anchor="middle" fill="black">&#9827;</text>
+    <g transform="translate(70,98) rotate(180)">
+      <text x="5" y="17" font-size="15" font-weight="bold" fill="black">7</text>
+      <text x="7" y="31" font-size="13" fill="black">&#9827;</text>
+    </g>
+  </g>
+  <!-- B's reserve label -->
+  <text text-anchor="end" font-size="9.5" font-weight="bold">
+    <tspan x="80" y="70">B's reserve</tspan>
+    <tspan x="80" dy="12">(13 cards)</tspan>
+    <tspan x="80" dy="12">top card</tspan>
+    <tspan x="80" dy="12">face-up</tspan>
+  </text>
+
+  <!-- Waste pile space (empty, dashed) -->
+  <rect x="217" y="55" width="70" height="98" rx="5" fill="none" stroke="black" stroke-width="1" stroke-dasharray="6,4"/>
+
+  <!-- B's hand: face down -->
+  <g transform="translate(346,55)">
+    <rect width="70" height="98" rx="5" fill="url(#back)" stroke="#0d3f80" stroke-width="1.5"/>
+    <rect x="4" y="4" width="62" height="90" rx="3" fill="none" stroke="#4488dd" stroke-width="1"/>
+  </g>
+  <!-- B's hand label -->
+  <text font-size="9.5" font-weight="bold">
+    <tspan x="424" y="70">B's hand</tspan>
+    <tspan x="424" dy="12">(35 cards)</tspan>
+    <tspan x="424" dy="12">face down</tspan>
+  </text>
+
+  <!-- ==================== TABLEAU ROW 1 (y=169) ==================== -->
+  <!-- 9 of hearts (B's tableau) -->
+  <g transform="translate(88,169)">
+    <rect width="70" height="98" rx="5" fill="white" stroke="black" stroke-width="1.5"/>
+    <text x="5" y="17" font-size="15" font-weight="bold" fill="red">9</text>
+    <text x="7" y="31" font-size="13" fill="red">&#9829;</text>
+    <text x="35" y="65" font-size="28" text-anchor="middle" fill="red">&#9829;</text>
+    <g transform="translate(70,98) rotate(180)">
+      <text x="5" y="17" font-size="15" font-weight="bold" fill="red">9</text>
+      <text x="7" y="31" font-size="13" fill="red">&#9829;</text>
+    </g>
+  </g>
+  <!-- Foundation spaces -->
+  <rect x="174" y="169" width="70" height="98" rx="5" fill="none" stroke="black" stroke-width="1" stroke-dasharray="6,4"/>
+  <rect x="260" y="169" width="70" height="98" rx="5" fill="none" stroke="black" stroke-width="1" stroke-dasharray="6,4"/>
+  <!-- 4 of diamonds (A's tableau) -->
+  <g transform="translate(346,169)">
+    <rect width="70" height="98" rx="5" fill="white" stroke="black" stroke-width="1.5"/>
+    <text x="5" y="17" font-size="15" font-weight="bold" fill="red">4</text>
+    <text x="7" y="31" font-size="13" fill="red">&#9830;</text>
+    <text x="35" y="65" font-size="28" text-anchor="middle" fill="red">&#9830;</text>
+    <g transform="translate(70,98) rotate(180)">
+      <text x="5" y="17" font-size="15" font-weight="bold" fill="red">4</text>
+      <text x="7" y="31" font-size="13" fill="red">&#9830;</text>
+    </g>
+  </g>
+
+  <!-- ==================== TABLEAU ROW 2 (y=283) ==================== -->
+  <!-- 6 of diamonds (B's tableau) -->
+  <g transform="translate(88,283)">
+    <rect width="70" height="98" rx="5" fill="white" stroke="black" stroke-width="1.5"/>
+    <text x="5" y="17" font-size="15" font-weight="bold" fill="red">6</text>
+    <text x="7" y="31" font-size="13" fill="red">&#9830;</text>
+    <text x="35" y="65" font-size="28" text-anchor="middle" fill="red">&#9830;</text>
+    <g transform="translate(70,98) rotate(180)">
+      <text x="5" y="17" font-size="15" font-weight="bold" fill="red">6</text>
+      <text x="7" y="31" font-size="13" fill="red">&#9830;</text>
+    </g>
+  </g>
+  <!-- Foundation spaces -->
+  <rect x="174" y="283" width="70" height="98" rx="5" fill="none" stroke="black" stroke-width="1" stroke-dasharray="6,4"/>
+  <rect x="260" y="283" width="70" height="98" rx="5" fill="none" stroke="black" stroke-width="1" stroke-dasharray="6,4"/>
+  <!-- 10 of clubs (A's tableau) -->
+  <g transform="translate(346,283)">
+    <rect width="70" height="98" rx="5" fill="white" stroke="black" stroke-width="1.5"/>
+    <text x="4" y="17" font-size="13" font-weight="bold" fill="black">10</text>
+    <text x="7" y="31" font-size="13" fill="black">&#9827;</text>
+    <text x="35" y="65" font-size="28" text-anchor="middle" fill="black">&#9827;</text>
+    <g transform="translate(70,98) rotate(180)">
+      <text x="4" y="17" font-size="13" font-weight="bold" fill="black">10</text>
+      <text x="7" y="31" font-size="13" fill="black">&#9827;</text>
+    </g>
+  </g>
+
+  <!-- ==================== TABLEAU ROW 3 (y=397) ==================== -->
+  <!-- King of spades (B's tableau) -->
+  <g transform="translate(88,397)">
+    <rect width="70" height="98" rx="5" fill="white" stroke="black" stroke-width="1.5"/>
+    <text x="5" y="17" font-size="15" font-weight="bold" fill="black">K</text>
+    <text x="7" y="31" font-size="13" fill="black">&#9824;</text>
+    <text x="35" y="65" font-size="28" text-anchor="middle" fill="black">&#9824;</text>
+    <g transform="translate(70,98) rotate(180)">
+      <text x="5" y="17" font-size="15" font-weight="bold" fill="black">K</text>
+      <text x="7" y="31" font-size="13" fill="black">&#9824;</text>
+    </g>
+  </g>
+  <!-- Foundation spaces -->
+  <rect x="174" y="397" width="70" height="98" rx="5" fill="none" stroke="black" stroke-width="1" stroke-dasharray="6,4"/>
+  <rect x="260" y="397" width="70" height="98" rx="5" fill="none" stroke="black" stroke-width="1" stroke-dasharray="6,4"/>
+  <!-- 8 of spades (A's tableau) -->
+  <g transform="translate(346,397)">
+    <rect width="70" height="98" rx="5" fill="white" stroke="black" stroke-width="1.5"/>
+    <text x="5" y="17" font-size="15" font-weight="bold" fill="black">8</text>
+    <text x="7" y="31" font-size="13" fill="black">&#9824;</text>
+    <text x="35" y="65" font-size="28" text-anchor="middle" fill="black">&#9824;</text>
+    <g transform="translate(70,98) rotate(180)">
+      <text x="5" y="17" font-size="15" font-weight="bold" fill="black">8</text>
+      <text x="7" y="31" font-size="13" fill="black">&#9824;</text>
+    </g>
+  </g>
+
+  <!-- ==================== TABLEAU ROW 4 (y=511) ==================== -->
+  <!-- Jack of hearts (B's tableau) -->
+  <g transform="translate(88,511)">
+    <rect width="70" height="98" rx="5" fill="white" stroke="black" stroke-width="1.5"/>
+    <text x="5" y="17" font-size="15" font-weight="bold" fill="red">J</text>
+    <text x="7" y="31" font-size="13" fill="red">&#9829;</text>
+    <text x="35" y="65" font-size="28" text-anchor="middle" fill="red">&#9829;</text>
+    <g transform="translate(70,98) rotate(180)">
+      <text x="5" y="17" font-size="15" font-weight="bold" fill="red">J</text>
+      <text x="7" y="31" font-size="13" fill="red">&#9829;</text>
+    </g>
+  </g>
+  <!-- Foundation spaces -->
+  <rect x="174" y="511" width="70" height="98" rx="5" fill="none" stroke="black" stroke-width="1" stroke-dasharray="6,4"/>
+  <rect x="260" y="511" width="70" height="98" rx="5" fill="none" stroke="black" stroke-width="1" stroke-dasharray="6,4"/>
+  <!-- 3 of diamonds (A's tableau) -->
+  <g transform="translate(346,511)">
+    <rect width="70" height="98" rx="5" fill="white" stroke="black" stroke-width="1.5"/>
+    <text x="5" y="17" font-size="15" font-weight="bold" fill="red">3</text>
+    <text x="7" y="31" font-size="13" fill="red">&#9830;</text>
+    <text x="35" y="65" font-size="28" text-anchor="middle" fill="red">&#9830;</text>
+    <g transform="translate(70,98) rotate(180)">
+      <text x="5" y="17" font-size="15" font-weight="bold" fill="red">3</text>
+      <text x="7" y="31" font-size="13" fill="red">&#9830;</text>
+    </g>
+  </g>
+
+  <!-- ==================== TABLEAU SIDE LABELS ==================== -->
+  <!-- Left bracket and label -->
+  <line x1="82" y1="174" x2="82" y2="604" stroke="black" stroke-width="1"/>
+  <line x1="82" y1="174" x2="86" y2="174" stroke="black" stroke-width="1"/>
+  <line x1="82" y1="604" x2="86" y2="604" stroke="black" stroke-width="1"/>
+  <text text-anchor="end" font-size="9.5" font-weight="bold">
+    <tspan x="76" y="352">Four</tspan>
+    <tspan x="76" dy="12">single</tspan>
+    <tspan x="76" dy="12">face-up</tspan>
+    <tspan x="76" dy="12">tableau</tspan>
+    <tspan x="76" dy="12">cards</tspan>
+    <tspan x="76" dy="12">dealt</tspan>
+    <tspan x="76" dy="12">by B</tspan>
+  </text>
+  <!-- Right bracket and label -->
+  <line x1="422" y1="174" x2="422" y2="604" stroke="black" stroke-width="1"/>
+  <line x1="418" y1="174" x2="422" y2="174" stroke="black" stroke-width="1"/>
+  <line x1="418" y1="604" x2="422" y2="604" stroke="black" stroke-width="1"/>
+  <text font-size="9.5" font-weight="bold">
+    <tspan x="428" y="352">Four</tspan>
+    <tspan x="428" dy="12">single</tspan>
+    <tspan x="428" dy="12">face-up</tspan>
+    <tspan x="428" dy="12">tableau</tspan>
+    <tspan x="428" dy="12">cards</tspan>
+    <tspan x="428" dy="12">dealt</tspan>
+    <tspan x="428" dy="12">by A</tspan>
+  </text>
+
+  <!-- ==================== PLAYER A (bottom) ==================== -->
+  <!-- A's hand: face down -->
+  <g transform="translate(88,625)">
+    <rect width="70" height="98" rx="5" fill="url(#back)" stroke="#0d3f80" stroke-width="1.5"/>
+    <rect x="4" y="4" width="62" height="90" rx="3" fill="none" stroke="#4488dd" stroke-width="1"/>
+  </g>
+  <!-- A's hand label -->
+  <text text-anchor="end" font-size="9.5" font-weight="bold">
+    <tspan x="80" y="644">A's hand</tspan>
+    <tspan x="80" dy="12">(35 cards)</tspan>
+    <tspan x="80" dy="12">face down</tspan>
+  </text>
+
+  <!-- Waste pile space (empty, dashed) -->
+  <rect x="217" y="625" width="70" height="98" rx="5" fill="none" stroke="black" stroke-width="1" stroke-dasharray="6,4"/>
+
+  <!-- A's reserve: Queen of hearts -->
+  <g transform="translate(346,625)">
+    <rect width="70" height="98" rx="5" fill="white" stroke="black" stroke-width="1.5"/>
+    <text x="5" y="17" font-size="15" font-weight="bold" fill="red">Q</text>
+    <text x="7" y="31" font-size="13" fill="red">&#9829;</text>
+    <text x="35" y="65" font-size="28" text-anchor="middle" fill="red">&#9829;</text>
+    <g transform="translate(70,98) rotate(180)">
+      <text x="5" y="17" font-size="15" font-weight="bold" fill="red">Q</text>
+      <text x="7" y="31" font-size="13" fill="red">&#9829;</text>
+    </g>
+  </g>
+  <!-- A's reserve label -->
+  <text font-size="9.5" font-weight="bold">
+    <tspan x="424" y="636">A's reserve</tspan>
+    <tspan x="424" dy="12">(13 cards)</tspan>
+    <tspan x="424" dy="12">top card</tspan>
+    <tspan x="424" dy="12">face-up</tspan>
+  </text>
+
+  <text x="252" y="742" text-anchor="middle" font-size="11" font-style="italic">A's waste pile</text>
+  <text x="252" y="765" text-anchor="middle" font-size="18" font-weight="bold">PLAYER A</text>
+</svg>

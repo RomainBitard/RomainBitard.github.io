@@ -1,6 +1,8 @@
 ---
 title: Crapette aide au multijoueur
-layout: minimal
+layout: default
+parent: Français
+nav_order: 1
 ---
 
 # **Aide au multijoueur**

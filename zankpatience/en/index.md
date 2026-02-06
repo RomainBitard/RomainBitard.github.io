@@ -1,147 +1,169 @@
 ---
 title: Zank-Patience rules
-layout: minimal
+layout: default
+parent: English
+nav_order: 3
 ---
 
 # Zank-Patience rules
 
 ## Introduction
 
-Russian Bank is a competitive patience game for two players. It is over 100 years old: for example it is described under the name Zank-Patience in the German Illustrirtes Buch der Patiencen, Breslau 1884/85. It is played in Britain and North America, and is also popular in France, where it is called Crapette. In Germany it is also known as Streitpatience or Schikanös–Patience. In North America it is sometimes known as Stop or Touch, because when a player makes an illegal move, or in some versions even touches a card that cannot legally be moved, the player's opponent can stop the play and take over. In the Middle East it is known as Tonj (sometimes spelled Tunj, Tonge or Tunge).
+Russian Bank is a competitive patience game for two players. 
+It's been known for more than 100 years under multiple names like Zank-Patience in the German book "Illustrirtes Buch der Patiencen, Breslau 1884/85" or Streitpatience and Schikanös–Patience.
+It is popular in France where it's known as Crapette. It's also played in multiple countries like North America or Britain where it's named sometimes "Touch" or "Stop" because of its gameplay (when you make an illegal move, the opponent can call stop to prevent you from finishing your turn).
+In the Middle East it is known as Tonj, Tunj, Tonge or Tunge.
 
 ## Players and Cards
 
-There are two players and two standard 52-card packs are needed, one for each player. It is convenient to use packs with different backs, because they become mixed during the play and need to be separated when the play ends, ready for the next game.
+This two-player game also needs two standard 52-card packs, one for each player. 
+Usually people use decks with different backs because decks become mixed by playing cards on each other and you need to separate them for the next game.
 
 ## Initial layout
 
-Each player thoroughly shuffles the other player's pack.
+Each player shuffles the other player's pack then they exchange decks.
 
-Each player deals from his own pack a pile of 12 cards face down, and a 13th card face up on top of it. This stack is called the player's reserve and is placed to the player's right.
+Each player deals from their own pack the reserve : 
+* a pile of 12 cards face hidden, with a 13th card face revealed on top.
+In general the player places this pile on their right.
 
-Next, each player deals 4 cards face up in a column above the reserve, with no overlapping, starting with the position furthest away from the player. These four cards are known as houses and the eight houses (four dealt by each player) are collectively known as the tableau. The two columns of four cards should have a space at least two cards wide between them, to leave room for the eight foundation piles which will be built from aces in this space. During the play, all eight houses of the tableau and all eight foundation spaces are common property and can be used by both players.
+Next each player deals the houses :
+* 4 cards each face revealed in a column above the reserve, with no overlapping, starting with the position furthest away from the player. In total there are 8 houses (known as the tableau).
 
-Each player will have 35 cards left over which are placed in a face-down pile on the left (at the end of the opponent's column of houses). These cards are known as the player's hand. This deal produces a symmetrical layout as shown in the following diagram. The space between the hand and reserve is used to store the player's waste pile, which is formed during the play.
+Leave between the 2 columns a space for at least 2 cards wide between them, it'll be for the 8 foundation piles that go from Ace to King.
+The 8 houses of the tableau as well as the 8 foundations belong to both players and can be used by anyone.
 
-Note: the literature on this game uses a variety of different terms to describe the various piles of cards.
+The remaining cards (35) known as the hand (or the draw pile), are placed on each player's left face hidden. 
+You should have a symmetrical layout as shown below. Between the hand and reserve is the waste pile where a player will play a card there to signify ending their turn.
 
-- The reserve is sometimes called the stock or the crapette.
-- The hand is sometimes called the stock or the talon.
-- The waste pile is sometimes called the discard pile or talon.
+![Initial layout](../layout.svg)
+
+Be sure of how you name your piles and stick with it, the same term can be used for a different pile depending on where on earth you play this game :
+- The reserve can also be called the stock or the crapette.
+- The hand can also be called the stock, the talon or the draw pile.
+- The waste pile can also be called the discard pile or talon.
 - The foundation piles are also known as centre piles.
-
-The ambiguity of the words 'stock' and 'talon', which have different meanings for different authors, is unfortunate, and I have therefore avoided these terms in this description.
 
 ## Objective
 
-The object is to be the first player to get rid of all the cards from one's hand, waste pile and reserve. This is achieved by playing them to the foundations or tableau, and by loading them onto the opponent's reserve and waste pile.
+The objective is to be the first player to get rid of all the cards from your personal piles : your hand, waste and reserve piles. This is achieved by loading them to the foundations or tableau, or on your opponent's reserve and waste piles.
 
 ## Play
 
-The player with the lower-ranking top reserve card begins play; for this purpose cards rank from King (high) to Ace (low). If the reserve cards are equal then the house cards next to each player's reserve are compared, and if these are also equal then the next house card, and so on; the player with the lower-ranking house card plays first. Players then take alternate turns until a player wins by having no reserve cards, no waste cards and no hand cards left, or until the game reaches a stalemate where both players find that no further plays from their reserve or hand cards are possible.
+The first player is the one with the lowest card from the top of their reserve (from lowest (ace) to highest (king)). If they are equal in rank then they compare the house cards, starting from the closest to their reserve. The game is played turn by turn until a player wins by having no cards in their reserve, waste or hand, or until the game reaches a stalemate if both players find that no more plays are possible.
 
-A player's turn consists of a series of moves of cards around the layout, according to strict rules. Each move consists of taking one available card and playing it by placing it onto a house of the tableau, a foundation pile or your opponent's reserve or waste pile, according to the building rules. Moves are subject to a number of priorities and certain moves are compulsory.
 
-At each turn you may make as many moves as you can and wish to, but must end your turn when you have no legal continuation or when your opponent stops you because you have made an error in play.
+A player can move cards around the layout according to strict rules. 
+Cards are taken one by one if they are considered available and placed onto a house of the tableau, a foundation pile or an opponent's reserve or waste pile, according to the building rules. 
+You have to play according to certain priorities because certain moves are compulsory.
+
+You can play for as long as you wish until you have no other option than to play on your waste pile or if the opponent stops you because you made an error.
 
 ## Available cards
 
-During your turn, the following cards are initially available:
+When it's your turn, the following cards are considered available:
 
-- the uppermost (face-up) card of your reserve;
-- the outermost card in each of the eight houses of the tableau. (When cards are added to the tableau, the cards in each house are overlapped in a row extending away from the foundation piles, as shown in the diagram below. The available outermost card of a house is therefore the card most recently added to that house, the only one which is not partially covered.)
+- the revealed top card of your reserve;
+- the outermost (or lowest value) card in each of the eight houses of the tableau.
 
-Further cards become available as follows:
+(When cards are added to the tableau, the cards in each house are overlapped in a row extending away from the foundation piles, as shown in the diagram below. The available outermost card of a house is therefore the card most recently added to that house, the only one which is not partially covered.)
 
-- Whenever you play the top card of your reserve by moving it elsewhere, you must immediately turn up the next card of your reserve, which then becomes available. When you have played the last card of your reserve, your reserve remains empty for the rest of the game.
-- When there are no further compulsory moves of available cards that you can make, you may turn up the top card of your hand. You may choose to continue to make voluntary moves before turning up your top hand card, but whenever no more legal moves are available you must turn up the top card of your hand. When your top hand card is turned face up, it immediately becomes available. After you have played your hand card and made any compulsory moves that become possible as a result of playing it, you may turn up your next hand card. If you are unable to play your turned up hand card or do not wish to do so, you must place it on your waste pile, which ends your turn. Once you have placed a card on your waste pile, that card is no longer available for you to play in subsequent turns. However, if it was a card that you were required to play according to the priorities and compulsory moves (i.e. if it fits on one of the foundation piles) your opponent could force you to play it there instead of on your waste pile before he starts his turn.
-- If there are no cards left in your hand when the time comes to turn a new card from it, you turn your waste pile over, without mixing the cards in it, and place it face-down to the left to form your new hand. You then turn the top card of this new hand and it becomes available. Note that if the last card of your hand is unplayable, you place it on your waste pile to end your turn, but you do not turn over your waste pile to make a new hand until your next turn, since your opponent is allowed to load cards onto your waste pile during his turn.
+Cards can become available later : 
+
+- After playing the top card of your reserve, the next card of your reserve is immediately turned up, making it available. (When there is no card left in your reserve, it remains empty until the end of the game)
+- If you have no compulsory move to make, you can turn up the top card of your hand. You can play as long as possible before turning up your top hand as long as there are legal moves, but eventually you'll have to turn up the top card of your hand making it available. After you have played your hand card and made any compulsory moves that become possible as a result of playing it, you may turn up your next hand card.
+If you can't play your turned up hand card or don't want to, you place it on your waste pile, ending your turn. Cards placed on your waste pile are no longer available for you to play. However, if it was a card that you were required to play according to the priorities and compulsory moves (i.e. if it fits on one of the foundation piles) your opponent could force you to play it there instead of on your waste pile before he starts his turn.
+- If your hand is empty and you need a card, you turn your waste pile over, without shuffling the cards in it, and place the stack face-down to the left to form your new hand. You can then resume playing by turning the top card of this new hand. You are not allowed to turn your waste pile over to make a new hand until you actually need a card from the hand because your opponent is allowed to load cards onto your waste pile during his turn.
 
 ## Building Rules
 
 Available cards can be played one at a time to any of the eight foundation piles, any of the eight houses of the tableau, or to the opponent's reserve or waste pile, provided that the following building rules are respected, and subject to the priorities and compulsory moves described later:
 
-- **Foundations:** an empty foundation space can only be filled by an available Ace. Each of the eight foundations is then built up by adding cards of the same suit in ascending sequence: A23456789TJQK. For example the only card that can be placed on the 4 of clubs is the 5 of clubs. No further card can be added after the King; it is usual to turn the King face-down to indicate that the foundation pile is complete.
-- **Houses:** on any of the eight houses of the tableau, the cards are built in descending sequence with alternating colours. For example only a red Seven can be placed on a black Eight; only a black Ten can be placed on a red Jack. The cards on the houses are overlapped so that the whole sequence can be seen (see diagram below). An empty house can be filled by any available card.
-- **Reserve and waste pile:** a player can "load" the opponent's reserve or waste pile by adding a card of the same suit as the exposed card, of the next higher or next lower rank. For example if the top card of your opponent's waste pile is the 9 of diamonds, you can place an available 8 of diamonds or 10 of diamonds on top of it, and having placed the 8 of diamonds you could continue by adding the 7 of diamonds or a second 9 of diamonds.
+- **Foundations:** an empty foundation space can only be filled by an available Ace.
+ Once the ace is played you can add cards of the same suit in ascending order from 2 to K (23456789TJQK). e.g. you can only place the 6 of hearts onto a 5 of hearts. Once the king is reached the pile is locked, usually indicated by flipping the king face down.
+- **Houses:** the cards are built in descending sequence with alternating colours.
+e.g. you can only place a black 9 on a red 10. Cards are overlapped slightly so that the whole sequence can be seen (see image below). If the house is empty you can play any available card on it.
+- **Reserve and waste pile:** you can "load" your opponent's reserve and waste pile by adding a card of the same suit as the exposed card, of the next higher or next lower rank (+/- 1 rank difference). 
+e.g. if the top card of your opponent's reserve is an 8 of clubs you can place either an available 9 of clubs or a 7 of clubs. You can load as many cards as are available (e.g. you load a 7 of clubs, then the 6 of clubs then another 7 of clubs and so on)
 
 ## Priorities and Compulsory Moves
 
-Certain moves are compulsory, and there are some moves that must be made in preference to others. The priorities and compulsory moves are as follows:
+Certain moves are compulsory, and if multiple moves are available you must follow certain priorities :
 
-1. If your reserve card can be played to a foundation pile, you must make this move before any other.
-2. When an available card can be moved to a foundation pile, it is compulsory to make such a move. If there are several available cards (other than your reserve card) that can be played to foundations, you may choose which to play first.
-3. If you have any cards in your reserve, then before you are allowed to turn a card from your hand, you must fill any empty spaces in the tableau from your reserve.
+* **(#1 Priority) Reserve to foundation**, you must make this move before any other.
 
-If you violate any of the above priority rules, or if you omit a compulsory move, or if you make any other kind of illegal move (such as a violation of the building rules), your opponent may call "Stop!" and explain what you have done wrong.
+* **(#2 Priority) Any available card to foundation** move is compulsory to make. If there are several available cards (other than your reserve card) that can be played to foundations, you may choose which to play first.
 
-- If you placed a card illegally, you must undo this move, and it is then your opponent's turn to play.
-- If you omitted a compulsory move, then you must take back the move you attempted to make instead, and carry out the compulsory move. It is then your opponent's turn to play.
+* **(#3 Priority) Any playable card from your reserve to an empty house**, you have to fill any empty house with your reserve before you are allowed to turn a card from your hand.
 
-In other words, your opponent may call "Stop!" if you do any of the following:
 
-- When the top card of your reserve could have been played to a foundation, you attempt to move some other card or turn up your hand card.
-- When there is any available card that could have been played to a foundation, you attempt to move a card to some other place, or turn up your hand card.
-- You turn up your hand card when there is a space in the tableau and your reserve is not empty.
-- You attempt to move a card to the tableau, to a foundation pile, or to your opponent's reserve or waste pile when it does not fit there according to the building rules.
-- You attempt to move any card that is not available.
+If you don't play following the above priority rules, or if you don't make a compulsory move, or any kind of illegal move (such as a violation of the building rules), your opponent may call "Stop!" and explain what you have done wrong.
 
-Please note the following points:
+- If you made an illegal move it has to be undone first before losing your turn in favor of your opponent's.
+- If you missed a compulsory move, your move has to be undone, the compulsory move is done instead and you lose your turn.
 
-- Unlike some Solitaire (Patience) games, in this game you are not allowed to move a group of cards from one house of the tableau to another, unless there are sufficient spaces in the tableau to allow the group to be moved by moving one card at a time. For example in the position shown above it would be illegal to move the 7 of spades-6 of diamonds-5 of spades-4 of hearts-3 of spades as a group onto the 8 of hearts, or to move the 3 of hearts-2 of spades onto the 4 of clubs. To move the 3-2 you would need one space to hold the 2 while the 3 was moved; to move the 7-6-5-4-3 onto the 8 you would need three spaces in the tableau.
-- When making moves, no distinction is made between cards from the two packs. The back designs are used only to sort the cards into two complete packs at the end of the play.
-- It is illegal to move cards from:
-  - your own waste pile (but see variations);
-  - opponent's hand, waste pile or stock;
-  - any foundation pile.
-- It is illegal to move cards to:
-  - either player's hand;
-  - your own reserve;
-  - your own waste pile, except when placing one of your hand cards there to end your turn.
+In summary your opponent can call "Stop!" when:
+
+- You move any card or turn your hand card when the top card of your reserve could have been played to a foundation.
+- You move any card or turn your hand card when there is an available card that could have been played to a foundation.
+- You turn your hand card instead of playing your reserve on a house
+- You try to move a card to an incorrect pile not following building rules (e.g. you don't alternate color on a house).
+- You try to move a card that is not available (e.g. the top of your waste pile).
+
+
+
+Notes: 
+- Unlike some Solitaire (Patience) games, you are not allowed to move a group of cards from one house of the tableau to another, you can only pick cards one by one. You can use empty houses to rearrange piles as long as you don't omit compulsory or top priority moves when picking the cards one by one.
+
+- When playing there is no distinction between the cards from the two packs, their only purpose is to make sure each player plays with a complete deck.
+- You can't move cards from your own waste (except in some variants) or your opponent's piles (hand, waste, reserve).
+- Cards in foundations can't be played anymore.
+- You can't move a card to each other's hands or your own reserve.
+- You can only move a card to your own waste pile from your hand (e.g. you can't take a card from a house to load your waste pile)
 
 ## End of the Game; Scoring
 
-If you manage to play all your cards, so that you have none left in your hand, reserve, or waste piles, you win and the game is over. You score 30 points for winning the game, plus 1 point for each card left in your opponent's hand and waste piles, plus 2 points for each card left in your opponent's reserve.
+The first to play all his cards (hand, reserve, waste) wins and the game is over. You earn 30 points for winning the game, 1 point for each card left in your opponent's hand and waste piles, and 2 points for each card left in your opponent's reserve.
 
-If a stalemate is reached in which neither player can play from his reserve or hand, whoever has the lower count of remaining cards (counting as usual 1 point for each card left in the hand or waste pile, plus 2 points for each card left in the reserve) scores the difference between the counts of the two players. There is no 30 point bonus for winning the game in this case.
+If there is a stalemate, there is no 30 point bonus. Each player counts their remaining cards (1 point for each card left in the hand or waste pile, 2 points for each card left in the reserve) and the lowest count scores the difference between the counts of the two players. (e.g. player A has 12 and player B has 20, player A scores 8)
 
-After each game the packs are separated and shuffled ready for a new game. The first player to reach or exceed an agreed target score - for example 300 points - in as many games as it takes, is the overall winner.
+After each game, separate and shuffle the decks to prepare for the next one.
+
+The first player to reach the target score at the end of a game wins the match
 
 ## Variations
 
-Many play that the top card of your own waste pile is available on the same basis as the outermost cards of the houses. In this version the top card from your waste pile must be moved to a foundation pile when possible, and can be moved to a house or loaded onto your opponent's waste or reserve when it fits.
+* The top card of your waste pile is available, you can play it on a foundation pile, a house or on your opponent's piles
 
-Some play with an initial reserve of 11 or 12 cards rather than 13. The hands are then correspondingly larger.
+* You can adjust the size of the reserve (11 or 12 cards instead of 13) and have bigger hands in consequence.
 
-There are several alternative ways to decide who starts:
+* Variations on who begins first : 
+1. You cut your deck before dealing and use that card to decide (lower begins in general)
+2. Higher reserve card wins (Ace is considered the top (AKQJT98765432)) if the ranks are equal you use the suits in descending order: spades, hearts, diamonds, clubs.
+3. Use only the tableau cards and not the reserve to decide.
+4. If you play multiple games the player that started first lets the other start the next game.
 
-- Some play that the cards are cut before the deal to decide who will start - lower card begins.
-- Some play that the player with the higher reserve card begins, the cards ranking for this purpose in descending order AKQJT98765432. When the reserve cards are equal the suits rank in descending order: spades, hearts, diamonds, clubs.
-- Some choose the first player based only on the tableau cards, ignoring the reserve.
-- When playing a series of hands up to a target score it may be agreed that the players take turns to start.
+* Stricter priority rules :
+1. Available cards must be played to the centre, it's also compulsory to release cards that could finish in a foundation by shuffling cards around to make them available, failing to see that opportunity is a foul.
+2. If you can't play to a foundation it's compulsory to play on your opponent's piles (waste or reserve) when possible.
+3. It's a foul if you turn your hand card when you could create a space in the tableau.
 
-Some play with stricter priority rules, in addition to the rules given above.
+* Tableau variant
+When laying out the tableaux each player places a card in each of their 4 houses face hidden, then deals a card with its face visible overlapping the hidden card.
+When the face down card is exposed by removing the visible card that was on top of it, you can flip the hidden card. The 3 rules above are used plus another one : 
+1. When you can't play on foundations the player must try to play to uncover the remaining hidden cards
 
-- Not only must available cards be played to the centre, but it is also compulsory to release any card in the tableau that could be moved to a foundation, by moving the cards that are covering it to other locations, whenever this is possible.
-- If there are no possible plays to foundation piles, it is compulsory to load cards onto one's opponent's discard pile or reserve whenever this can be done.
-- Before turning up your hand card, it is compulsory to create as many spaces as possible in the tableau and fill them from your reserve.
+* There are even stricter rules like a harder rule 1 : if you can release a card from the tableau it must be done with as few moves as possible.
 
-Variant Tableau: Some lay out the tableaux as follows: first each player places a face down card in each house, beginning with the space nearest to the player's reserve; then a face up card is dealt to each house, overlapping the face down card. When a face down card is exposed by moving away the face up card that was on top of it, the face down card is turned face up. In the play, the three strict rules above are observed, together with a fourth rule:
+* There are less strict rules, for instance you can turn your hand card right at the start of your turn, or look at it while your opponent is still playing.
 
-- After all possible cards have been played to the foundation piles, the player must if possible play so as to uncover any remaining face down cards.
+* Your reserve cards are hidden at start until any possible move is made, then you can flip your reserve card and usual rules apply.
 
-Some play with an even stricter version of rule 1 above, that if any card buried in the tableau can be released and moved to a foundation pile, this must be done in the fewest possible number of moves.
+* Some people allow to move piles of cards from the house altogether as long as they form a descending sequence, usually when playing like that you can't pick single cards from piles in houses anymore (except to move them to foundations)
 
-On the other hand, some people play with less strict priority rules. For example, some allow you to turn over your hand card at the start of your turn, or even to look at it privately before your turn starts, while the other person is still playing.
+* **Simplified Variant:** Instead of 2 decks, just 1 standard 52-card deck is needed. One player plays with the hearts and clubs, and the other with the spades and diamonds. Reduced houses from 4 to 3 each. The size of the hand and the reserve is reduced but not specified; Günther Senst suggests a reserve of 5 cards and a hand of 17 cards.
 
-Some play that your whole reserve is initially face down. At your first turn, you must make any possible moves from the tableau to the foundation piles before turning up the top card of your reserve. Subsequently, as soon as the top card of your reserve is played, you turn up the next card if it is face down.
+* **Three-player Game:** 2 standard 52-card packs plus one joker are used and shuffled together. Each player receives 35 cards to build their reserve and three houses. The size of the reserve and hand are not specified, some people use 8 cards for the reserves and 24 cards for the hands. The first house to be emptied is simply removed from the game, so that the rest of the game is played like a two player game with 8 houses (but a third player with its own waste, reserve and hand). The joker is simply set aside when appearing.
 
-David Crossley describes a more permissive version of the game in which cards can be moved around the tableau not only singly but in groups. This must be done in such a way that the cards in each house always form a descending sequence in alternating colours, and whenever a tableau card is moved any cards that are cards piled on top of it must be moved with it as a group.
-
-On the website http://home.arcor.de/ebwegner/Zank-Pat.htm (archive copy) Eberhard Wegner described a simplified two-player variant (perhaps for children or for beginners?) and a variant for three players.
-
-- **Simplified Variant:** Just one standard 52-card pack is used. One player plays with the hearts and clubs, and the other with the spades and diamonds. Each has a tableau of just three houses. The size of the hand and the reserve is not specified; Günther Senst suggests a reserve of 5 cards and a hand of 17 cards. The remaining rules are as in the normal game.
-- **Three-player Game:** Two standard 52-card packs plus one joker are used. These are shuffled and each player is dealt 35 cards, from which a reserve and three houses are laid out. The size of the reserve and hand are again not specified; suggestion: 8 card reserve and hand 24 cards. The first time a house is emptied it is no longer used, so that after that there are just eight houses and the layout looks just like that for the normal two-player game (except that the third player also has a reserve, discard pile and hand). When the joker appears it is simply set aside, out of the game. The remaining rules are as in the normal game.
-
-# **Checkout my other games**
+# **Check out my other games**
 [![My Apps](../../icons/PlayStoresIconsENG.png)](https://onelink.to/gkhhrc)
