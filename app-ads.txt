@@ -885,7 +885,6 @@ mintegral.com,10005,RESELLER
 mintegral.com,10026,RESELLER
 mintegral.com,10030,RESELLER
 mintegral.com,10038,RESELLER
-mintegral.com,34290,DIRECT,0aeed750c80d6423
 mman.kr,30769,RESELLER
 mman.kr,33085,RESELLER
 mman.kr,33476,RESELLER
