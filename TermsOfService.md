@@ -1,3 +1,6 @@
+---
+layout: minimal
+---
 # 1.0 Introduction
 
 These terms of use (Terms) set out the relationship between you and Unscripted Engineering (“us” or “we”) regarding your use of our games and services.
