@@ -14,6 +14,7 @@ inmobi.com,4393af1b5510430eb28d2e096f4a91c3,RESELLER,83e75a7ae333ca9d
 media.net,8CU42HWJH,RESELLER
 managerdomain=semseoymas.com
 #############SEMSEOYMAS.COM LINES END
+fivecdm.com,11931628,DIRECT
 152media.info,152m324,RESELLER
 33across.com,0010b00002MptSLAAZ,RESELLER,bbea06d9c4d2853c
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
