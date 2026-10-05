@@ -1,0 +1,122 @@
+output: app-ads.txt
+todo: app-ads-todo.md
+state: app-ads/state.yml
+live_url: https://romainbitard.github.io/app-ads.txt
+unity_projects: ../unity
+
+preamble:
+  - OWNERDOMAIN=romainbitard.github.io
+  - "# https://romainbitard.github.io/"
+
+sellers_json_urls:
+  google.com: https://realtimebidding.google.com/sellers.json
+
+ignored_adapters:
+  moloco: Moloco sells direct demand only, no app-ads.txt line needed
+
+sources:
+  - id: admob
+    name: Google AdMob
+    kind: network
+    own:
+      - google.com, pub-8013417841559160, DIRECT, f08c47fec0942fa0
+    page: https://apps.admob.com/v2/apps/appadstxt
+    where: check every app shows Verified
+    docs: https://developers.google.com/admob/android/app-ads
+
+  - id: meta
+    name: Meta Audience Network
+    kind: network
+    adapter: facebook
+    own:
+      - facebook.com, 526012342044975, DIRECT, c3e20eee3f780d68
+    dashboard: https://business.facebook.com/settings
+    where: Business settings → Business info → Business ID
+    docs: https://www.facebook.com/audiencenetwork/getting-started
+
+  - id: applovin
+    name: AppLovin
+    kind: network
+    adapter: applovin
+    file: app-ads/sources/networks/applovin.txt
+    refresh_days: 30
+    own:
+      - applovin.com, 355e3e572832d8f5a36bbf88bd2dbab2, DIRECT
+    dashboard: https://dash.applovin.com/
+    where: Account → General → App-ads.txt Info
+    docs: https://support.applovin.com/en/max/max-dashboard/account/iab-supply-chain-validation
+
+  - id: unity
+    name: Unity Ads
+    kind: network
+    adapter: unity
+    file: app-ads/sources/networks/unity.txt
+    refresh_days: 30
+    own:
+      - unity.com, 1141857, DIRECT, 96cabb5fbdde37a7
+    page: https://cloud.unity.com/home/organizations/9071002137722/monetization/organization-settings
+    where: App-ads.txt → Show full list
+    docs: https://docs.unity.com/en-us/grow/ads/optimization/app-ads-txt
+
+  - id: ironsource
+    name: ironSource (LevelPlay)
+    kind: network
+    adapter: ironsource
+    file: app-ads/sources/networks/ironsource.txt
+    url: https://docs.unity.com/en-us/grow/programmatic/ironsource-exchange/app-ads-txt.md
+    own: []
+    dashboard: https://platform.ironsrc.com/
+    where: Avatar (bottom left) → Account → API tab → Publisher ID
+    docs: https://docs.unity.com/en-us/grow/programmatic/ironsource-exchange/app-ads-txt
+
+  - id: inmobi
+    name: InMobi
+    kind: network
+    adapter: inmobi
+    own:
+      - inmobi.com, b0249614ef27431395c13596dca9a90e, DIRECT, 83e75a7ae333ca9d
+    dashboard: https://publisher.inmobi.com/
+    where: Inventory → app-ads.txt → download the "maximum" list
+    docs: https://support.inmobi.com/monetize/manage-inventory/app-ads-txt/set-up-an-app-ads.txt-file-for-your-app
+
+  - id: liftoff
+    name: Liftoff Monetize (Vungle)
+    kind: network
+    adapter: vungle
+    file: app-ads/sources/networks/liftoff.txt
+    refresh_days: 30
+    own:
+      - vungle.com, 628bf808739dad0019cdb614, DIRECT, c107d686becd2d77
+    page: https://publisher.vungle.com/vungleAdsTxt
+    where: Download app-ads.txt
+    docs: https://support.vungle.com/hc/en-us/articles/360055891252-app-ads-txt
+
+  - id: mintegral
+    name: Mintegral
+    kind: network
+    adapter: mintegral
+    own: []
+    dashboard: https://dev.mintegral.com/
+    where: Account → Account Info → Publisher ID (line is "mintegral.com, <Publisher ID>, DIRECT")
+    docs: https://developers.google.com/admob/android/mediation/mintegral
+
+  - id: line
+    name: LY Ads (LINE / Five)
+    kind: network
+    adapter: line
+    own:
+      - fivecdm.com, 11931628, DIRECT
+    docs: https://developers.google.com/admob/unity/mediation/line
+
+  - id: semseoymas
+    name: Semseoymas (manager)
+    kind: manager
+    file: app-ads/sources/managers/semseoymas.txt
+    refresh_days: 180
+    page: https://semseoymas.com/
+    where: lines are sent by the manager
+
+  - id: legacy
+    name: Legacy (from the old hand-made file)
+    kind: legacy
+    file: app-ads/sources/legacy.txt

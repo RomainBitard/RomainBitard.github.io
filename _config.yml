@@ -9,5 +9,10 @@ heading_anchors: false
 include: 
 - "app-ads.txt"
 - "games/*"
+exclude:
+- app-ads/
+- app-ads-todo.md
+- app-ads-update-procedure.md
+- tools/
 
 # bundle exec jekyll serve
