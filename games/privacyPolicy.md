@@ -53,10 +53,17 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 *   [AppLovin](https://www.applovin.com/privacy/)
 *   [AdColony](https://www.adcolony.com/privacy-policy/)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy)
 
 **Log Data**
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+
+Crapette uses Firebase Crashlytics (Google) to receive crash and error reports. When the app crashes or hits an error, Crashlytics collects the crash details (stack trace and the app's recent events), your device model, operating system version, app version and a Crashlytics installation identifier; if you are signed in, the report also carries your player identifier so we can match it to your account. We use these reports only to find and fix bugs.
+
+**Diagnostic mode (Crapette)**
+
+Crapette has an optional diagnostic mode, off by default, that you can turn on in Options to help us investigate a problem. While it is on (at most 24 hours), the game records its logs, memory use, frame rate and your device model in a file on your phone, keeping only the 3 most recent sessions. Nothing is sent automatically: the report leaves your phone only if you choose to share it (for example by email), and only to the recipient you choose.
 
 **Cookies**
 
@@ -115,7 +122,7 @@ If you choose to use our Products for free with ads, you will be asked to allow 
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2022-06-29
+This policy is effective as of 2026-11-19
 
 
 **Contact Us**
